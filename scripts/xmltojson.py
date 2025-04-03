@@ -95,7 +95,7 @@ SETS = {
 }
 
 # Parse XML using ElementTree
-tree = XET.parse("tricedata/cards.xml")
+tree = XET.parse("cards.xml")
 root = tree.getroot()
 carddata = []
 
@@ -141,7 +141,9 @@ for card in root[1]:
                     carddict["pt"] = property.text.replace("★", "*")
     # print(carddict)
     carddata.append(carddict)
-    
+
+print(carddata)
+
 data = '{"meta":{},"data":{'
 sortedCarddata = []
 
@@ -159,52 +161,52 @@ for set in SETS:
 setno = 1
 outdict = {}
 # Convert newly sorted data into a string to write to JSON file
-for set in sortedCarddata:
-    print(list(set.keys())[0])
-    # if list(set.keys())[0] == 'VMN' or 'EXPT':
-    #     continue
-    cards = []
-    for card in list(set.values())[0]:
-        carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"], "number": card["num"], "type": card["type"], "name": card["name"]}
-        if "pt" in card:
-            carddict["power"] = card["pt"].split("/")[0]
-            carddict["toughness"] = card["pt"].split("/")[1]
-        # print("dataing", card)
-        # data += f'{{"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colors"])}], "id":"{card["name"]}_{list(set.keys())[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
-        # if "pt" in card:
-        #     data += f'"power":"{card["pt"].split("/")[0]}",'
-        # data += f'"relatedCards":{{"spellbook":[{LlistFormat(card["related"])}]}},'
-        if card["type"]: cardtypesplit = card["type"].split(" ")
-        carddict["types"] = cardtypesplit
-        if "-" in cardtypesplit:
-            i = cardtypesplit.index("-")
-            cardtypesplit = cardtypesplit[:i]
-        print(cardtypesplit)
-        carddict["types"] = cardtypesplit
-        try: subtypes = card["type"].split("- ")[1].split(" ")
-        except IndexError: subtypes = []
-        carddict["subtypes"] = subtypes
-        # data += f'"text":"{card["text"]}",'
-        # if "pt" in card: data += f'"toughness":"{card["pt"].split("/")[1]}",'
-        # data += f'"type":"{card["type"]}","types":[{LlistFormat(cardtypesplit)}]}},'
-        cards.append(carddict)
-    setdict = {"name": SETS[list(set.keys())[0]][0], "code": list(set.keys())[0], "gathererCode": list(set.keys())[0], "magicCardsInfoCode": list(set.keys())[0], "releaseDate": SETS[list(set.keys())[0]][1], "release_number": setno, "border": "black", "type": "expert", "booster": [], "mkm_name": SETS[list(set.keys())[0]][0], "mkm_number": setno, "cards": cards}
-    outdict[list(set.keys())[0]] = setdict
-    setno += 1
-    # data += f'"{list(set.keys())[0]}":{{"name":"{SETS[list(set.keys())[0]][0]}","code":"{list(set.keys())[0]}","releaseDate":"{SETS[list(set.keys())[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[list(set.keys())[0]][0]}","mkm_number":"{setno}","cards":['
-#     data = data.rstrip(",")
-#     data += "]},"
+# for set in sortedCarddata:
+#     # print(list(set.keys())[0])
+#     # if list(set.keys())[0] == 'VMN' or 'EXPT':
+#     #     continue
+#     cards = []
+#     for card in list(set.values())[0]:
+#         carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"], "number": card["num"], "type": card["type"], "name": card["name"]}
+#         if "pt" in card:
+#             carddict["power"] = card["pt"].split("/")[0]
+#             carddict["toughness"] = card["pt"].split("/")[1]
+#         # print("dataing", card)
+#         # data += f'{{"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colors"])}], "id":"{card["name"]}_{list(set.keys())[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
+#         # if "pt" in card:
+#         #     data += f'"power":"{card["pt"].split("/")[0]}",'
+#         # data += f'"relatedCards":{{"spellbook":[{LlistFormat(card["related"])}]}},'
+#         if card["type"]: cardtypesplit = card["type"].split(" ")
+#         carddict["types"] = cardtypesplit
+#         if "-" in cardtypesplit:
+#             i = cardtypesplit.index("-")
+#             cardtypesplit = cardtypesplit[:i]
+#         # print(cardtypesplit)
+#         carddict["types"] = cardtypesplit
+#         try: subtypes = card["type"].split("- ")[1].split(" ")
+#         except IndexError: subtypes = []
+#         carddict["subtypes"] = subtypes
+#         # data += f'"text":"{card["text"]}",'
+#         # if "pt" in card: data += f'"toughness":"{card["pt"].split("/")[1]}",'
+#         # data += f'"type":"{card["type"]}","types":[{LlistFormat(cardtypesplit)}]}},'
+#         cards.append(carddict)
+#     setdict = {"name": SETS[list(set.keys())[0]][0], "code": list(set.keys())[0], "gathererCode": list(set.keys())[0], "magicCardsInfoCode": list(set.keys())[0], "releaseDate": SETS[list(set.keys())[0]][1], "release_number": setno, "border": "black", "type": "expert", "booster": [], "mkm_name": SETS[list(set.keys())[0]][0], "mkm_number": setno, "cards": cards}
+#     outdict[list(set.keys())[0]] = setdict
+#     setno += 1
+#     # data += f'"{list(set.keys())[0]}":{{"name":"{SETS[list(set.keys())[0]][0]}","code":"{list(set.keys())[0]}","releaseDate":"{SETS[list(set.keys())[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[list(set.keys())[0]][0]}","mkm_number":"{setno}","cards":['
+# #     data = data.rstrip(",")
+# #     data += "]},"
     
-# data = data.rstrip(",")
-# data += "}"
-# data += "}"
+# # data = data.rstrip(",")
+# # data += "}"
+# # data += "}"
 
-outdict = {"meta": dict(), "data": outdict}
+# outdict = {"meta": dict(), "data": outdict}
 
 # print(outdict)
 
 with open("AllCards.json", "w", encoding = "utf-8") as f:
-    f.write(json.dumps(outdict, indent=2))
+    f.write(json.dumps(carddata, indent=2))
 
 
 
@@ -232,8 +234,8 @@ with open("AllCards.json", "w", encoding = "utf-8") as f:
 #     ]
 # }
 
-with open("AllCards.json", "r", encoding = "utf-8") as f:
-    if f.read()[0] == "{":
-        print("YAYAYAYAY")
-    else:
-        print("adfadsf")
+# with open("AllCards.json", "r", encoding = "utf-8") as f:
+#     if f.read()[0] == "{":
+#         print("YAYAYAYAY")
+#     else:
+#         print("adfadsf")
