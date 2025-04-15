@@ -8873,7 +8873,7 @@ Escape—{4}{G}, Exile X other cards from your graveyard. X can't be 0. (You may
 				<layout>normal</layout>
 				<type>Creature — Hydra Mutant</type>
 				<maintype>Creature</maintype>
-				<pt>1/1</pt>
+				<pt>0/0</pt>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
@@ -24485,7 +24485,7 @@ Retopology {2}{G}{G} (Cast a copy of this from your graveyard by exiling it and 
 			<text>Flash
 Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Defender, haste
-{2}, {T}: Each opponent loses X life and you gain X life, where X is the number of artifacts you control.</text>
+{2}, {T}: Each opponent loses 3 life and you gain 3 life. Activate only if you control three or more artifacts.</text>
 			<prop>
 				<side>front</side>
 				<manacost>1WB</manacost>
