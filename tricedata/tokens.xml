@@ -5,7 +5,7 @@
 
     <card>
       <name>Liberated Dragon AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Dragon </type>
@@ -18,7 +18,7 @@
     </card>
     <card>
       <name>Insect Advisor AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Insect Advisor </type>
@@ -81,7 +81,7 @@
       <reverse-related>Old Guard Guru</reverse-related>
       <reverse-related>Invoke Martial Law</reverse-related>
       <reverse-related>Protect the Uninjected</reverse-related>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -93,7 +93,7 @@
     </card>
     <card>
       <name>Recruit AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature</type>
@@ -106,7 +106,7 @@
     </card>
     <card>
       <name>Treasure AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -118,7 +118,7 @@
     </card>
     <card>
       <name>Human AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Human </type>
@@ -131,7 +131,7 @@
     </card>
     <card>
       <name>Incarnation AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Incarnation </type>
@@ -144,7 +144,7 @@
     </card>
     <card>
       <name>Hex Citizen AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Hex Citizen </type>
@@ -157,7 +157,7 @@
     </card>
     <card>
       <name>Werewolf Citizen AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Werewolf Citizen </type>
@@ -170,7 +170,7 @@
     </card>
     <card>
       <name>Incarnation Soldier AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Incarnation Soldier </type>
@@ -183,7 +183,7 @@
     </card>
     <card>
       <name>Soldier AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -196,7 +196,7 @@
     </card>
     <card>
       <name>House AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Equipment </type>
@@ -209,7 +209,7 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Dragon AKT</name>
-      <set>AKT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Dragon </type>
@@ -225,7 +225,7 @@ Equip creature of the chosen type {1}</text>
 
     <card>
       <name>Icon Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -239,7 +239,7 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Horror EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Horror </type>
@@ -252,7 +252,7 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Elemental EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Elemental </type>
@@ -266,7 +266,7 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Distant Vulture Astral EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Creature - Bird Incarnation </type>
@@ -281,7 +281,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Insect Plant Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Insect Plant </type>
@@ -294,7 +294,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Wall Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Wall </type>
@@ -307,7 +307,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Shapeshifter Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Shapeshifter </type>
@@ -320,7 +320,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Robot Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Robot </type>
@@ -400,7 +400,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Cunning Thoughtlich</reverse-related>
       <reverse-related>Feral Communion</reverse-related>
       <reverse-related>Callwolf Chanter</reverse-related>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -412,7 +412,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Demon EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Demon </type>
@@ -426,7 +426,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Drake Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Drake </type>
@@ -445,7 +445,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Fox Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Fox </type>
@@ -459,7 +459,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Wurm Dragon Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Kindred Enchantment - Wurm Dragon </type>
@@ -472,7 +472,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Elemental Token 2 EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Elemental </type>
@@ -486,7 +486,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Elemental Token 3 EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Elemental </type>
@@ -500,7 +500,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Dragon Eye Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Dragon Eye </type>
@@ -514,7 +514,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Aubrey EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Legendary Token Creature - Drake </type>
@@ -528,7 +528,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -542,7 +542,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Treasure Token EXPT</name>
-      <set>EXPT</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Treasure </type>
@@ -560,7 +560,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
 
     <card>
       <name>Zombie HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Zombie </type>
@@ -574,7 +574,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Merfolk Horror HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Merfolk Horror </type>
@@ -587,7 +587,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Skeleton </type>
@@ -600,7 +600,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Spider HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Spider </type>
@@ -613,7 +613,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton Hydra HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Skeleton Hydra </type>
@@ -626,7 +626,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton Horse HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Skeleton Horse </type>
@@ -639,7 +639,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Vampire Soldier HEL</name>
-      <set>HEL</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Vampire Soldier </type>
@@ -655,7 +655,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
 
     <card>
       <name>Intisuyus Armies HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment</type>
@@ -668,7 +668,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Suyay&apos;s Soldier HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -683,7 +683,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>The Sword of Perle HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Legendary Creature - Orc Soldier </type>
@@ -699,7 +699,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Scout HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Scout </type>
@@ -712,7 +712,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>The Gentle Giant HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Legendary Creature - Azra Knight </type>
@@ -726,7 +726,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Vances Claw HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Legendary Creature - Elf Soldier </type>
@@ -740,7 +740,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Lover to All HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Legendary Creature - Human Noble </type>
@@ -755,7 +755,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>The Diamond of the Nye HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Legendary Creature - Human Pirate </type>
@@ -769,7 +769,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>The Occultist HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Legendary Creature - Human Wizard </type>
@@ -783,7 +783,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Horror HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Horror </type>
@@ -799,7 +799,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Dewold Army HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Army </type>
@@ -813,7 +813,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Young Soldier HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Soldier </type>
@@ -879,7 +879,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <reverse-related>Sovereign Echomage</reverse-related>
       <reverse-related>Sandrock Blacksmith</reverse-related>
       <reverse-related>Arbiter of the Meek</reverse-related>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>
@@ -892,7 +892,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Destroyed-Knight HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>WUBRG</colors>
         <type>Token Creature - Knight </type>
@@ -926,7 +926,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Soldier HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -939,7 +939,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Knight HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Knight </type>
@@ -952,7 +952,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>The True Heir HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Legendary Creature - Human Noble </type>
@@ -965,7 +965,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Treasure HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -981,7 +981,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Weapon HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Equipment </type>
@@ -999,7 +999,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Food HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Food </type>
@@ -1013,7 +1013,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Clue HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Clue </type>
@@ -1027,7 +1027,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Spirit HOD</name>
-      <set>HOD</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Spirit </type>
@@ -1043,7 +1043,7 @@ Equip {2}</text>
 
     <card>
       <name>Faerie Horror ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Faerie Horror </type>
@@ -1057,7 +1057,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Horror ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Horror </type>
@@ -1070,7 +1070,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Ringing Noise ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -1082,7 +1082,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Illusion ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Illusion </type>
@@ -1095,7 +1095,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Nightmare ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Nightmare </type>
@@ -1109,7 +1109,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Everywhere ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Land</type>
@@ -1122,7 +1122,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Echo ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Planeswalker - Echo </type>
@@ -1135,7 +1135,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Ancient Forerunner ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Construct </type>
@@ -1150,7 +1150,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
     </card>
     <card>
       <name>Cloudscape Observer ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Drone </type>
@@ -1164,7 +1164,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
     </card>
     <card>
       <name>Deepmind Oracle ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Sphinx </type>
@@ -1179,7 +1179,7 @@ When this creature enters, surveil X, where X is its power.</text>
     </card>
     <card>
       <name>Emergent Anomaly ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Horror </type>
@@ -1194,7 +1194,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
     </card>
     <card>
       <name>Fracture of Divinity ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Demigod Construct </type>
@@ -1209,7 +1209,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
     </card>
     <card>
       <name>Lammasu, Dream-Stilled ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Legendary Artifact Creature - Sphinx </type>
@@ -1224,7 +1224,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Mechanised Hunter ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Horror </type>
@@ -1238,7 +1238,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>New-Life Acolyte ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Warlock </type>
@@ -1252,7 +1252,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Priest of Perfection ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Cleric </type>
@@ -1266,7 +1266,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Shifting Silverscape ITD ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Shapeshifter </type>
@@ -1280,7 +1280,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Insect ITD</name>
-      <set>ITD</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Insect </type>
@@ -1297,7 +1297,7 @@ This creature can’t block.</text>
 
     <card>
       <name>PTN Foretell PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -1339,7 +1339,7 @@ Lands can’t have a cost and are played normally.</text>
     </card>
     <card>
       <name>Scar Boon PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Boon</type>
@@ -1375,7 +1375,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Worm Token PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Worm </type>
@@ -1389,7 +1389,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Wolf Token PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wolf </type>
@@ -1405,7 +1405,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Angel Token PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Angel </type>
@@ -1419,7 +1419,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Cleric Token PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Cleric </type>
@@ -1466,7 +1466,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>God Horror Token PTN</name>
-      <set>PTN</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - God Horror </type>
@@ -1484,7 +1484,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
 
     <card>
       <name>Bird PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Artifact Creature - Bird </type>
@@ -1497,7 +1497,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Treasure PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -1509,7 +1509,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Dinosaur PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Dinosaur </type>
@@ -1522,7 +1522,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Fractal Horror PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Fractal Horror </type>
@@ -1535,7 +1535,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Fractal Reflection PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Fractal Reflection </type>
@@ -1548,7 +1548,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Horror PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Horror </type>
@@ -1561,7 +1561,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Human PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Human </type>
@@ -1574,7 +1574,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Nilvoid PVR</name>
-      <set>PVR</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Land</type>
@@ -1590,7 +1590,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
 
     <card>
       <name>Voidstone Shard VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Trace Enchantment</type>
@@ -1626,7 +1626,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Reformed Rift VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Trace Land</type>
@@ -1640,7 +1640,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Vin-Mountain VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Mountain </type>
@@ -1654,7 +1654,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Subdued Rift VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WB</colors>
         <type>Trace Skill Sorcery</type>
@@ -1674,7 +1674,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Hollow Graze VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>UB</colors>
         <type>Trace Skill Instant</type>
@@ -1689,7 +1689,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Ever Vigilant VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>UG</colors>
         <type>Trace Skill Sorcery</type>
@@ -1706,7 +1706,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Steady Growth VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>BG</colors>
         <type>Trace Enchantment</type>
@@ -1723,7 +1723,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Prepared Strike VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Trace Skill Sorcery</type>
@@ -1738,7 +1738,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>In the Moment VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Trace Skill Sorcery</type>
@@ -1753,7 +1753,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Reshape Will VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WU</colors>
         <type>Trace Skill Instant</type>
@@ -1771,7 +1771,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Readied Assault VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WR</colors>
         <type>Trace Skill Sorcery</type>
@@ -1788,7 +1788,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Military Training VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WG</colors>
         <type>Trace Skill Instant</type>
@@ -1806,7 +1806,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>White Drake Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Drake </type>
@@ -1822,7 +1822,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Icebound Reinforcements Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>UG</colors>
         <type>Token Creature - Human Scout </type>
@@ -1874,7 +1874,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Cydina Storm Drake</reverse-related>
       <reverse-related>Perspective Shift</reverse-related>
       <reverse-related>Meirel Drifter</reverse-related>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>
@@ -1916,7 +1916,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Cat Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WB</colors>
         <type>Token Enchantment Creature - Cat </type>
@@ -1932,7 +1932,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Warped Exploration VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Trace Skill Sorcery</type>
@@ -1949,7 +1949,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Blue Drake Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
@@ -1967,7 +1967,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Plains VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Plains </type>
@@ -1981,7 +1981,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Island VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Island </type>
@@ -1995,7 +1995,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Swamp VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Swamp </type>
@@ -2009,7 +2009,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Forest VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Forest </type>
@@ -2023,7 +2023,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Harsh Reprise VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Trace Skill Instant</type>
@@ -2038,7 +2038,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Cut from Void VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Trace Skill Instant</type>
@@ -2054,7 +2054,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Sanctum Reminder VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -2118,7 +2118,7 @@ You can move cards in and out of your sanctum in sideboarding, provided that all
     </card>
     <card>
       <name>Pathbound VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -2179,7 +2179,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Vin-Fault-Conjure VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Fault </type>
@@ -2193,7 +2193,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Icon VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -2207,7 +2207,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Multaph&apos;s Respite&apos;s Spellbook VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>WUR</colors>
         <type>Spellbook</type>
@@ -2224,7 +2224,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Black Wurm Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Wurm </type>
@@ -2240,7 +2240,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Green Wurm Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wurm </type>
@@ -2258,7 +2258,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Red Wurm Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Wurm </type>
@@ -2277,7 +2277,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>White Wurm Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm </type>
@@ -2362,7 +2362,7 @@ Scry 1, then draw a card.</text>
       <reverse-related>Canyon Crustacean</reverse-related>
       <reverse-related>Iridescent Summit</reverse-related>
       <reverse-related>Unbothered Alchemist</reverse-related>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -2374,7 +2374,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Icon Token VNM</name>
-      <set>VNM</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -2390,7 +2390,7 @@ Scry 1, then draw a card.</text>
 
     <card>
       <name>Dragon Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Dragon </type>
@@ -2403,7 +2403,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Memory of Home WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Enchantment</type>
@@ -2415,7 +2415,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Spirit Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Spirit </type>
@@ -2428,7 +2428,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Story of a Dead Plane WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -2441,7 +2441,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Wonder Archon Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder Archon </type>
@@ -2454,7 +2454,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>New Tensuo Luminary Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
@@ -2468,7 +2468,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Lakebed Wrudge Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Creature - Wonder Fish </type>
@@ -2483,7 +2483,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Beast Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Beast </type>
@@ -2496,7 +2496,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Cloudeater Drake token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Wonder Drake </type>
@@ -2511,7 +2511,7 @@ When this creature enters, draw a card.
     </card>
     <card>
       <name>Copy WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token</type>
@@ -2523,7 +2523,7 @@ When this creature enters, draw a card.
     </card>
     <card>
       <name>Demon Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Demon </type>
@@ -2537,7 +2537,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Flowering Germinus Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>WG</colors>
         <type>Token Creature - Wonder  </type>
@@ -2551,7 +2551,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Gilded Ancient Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Cat </type>
@@ -2566,7 +2566,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Ilcan Keyseeker WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Human Wizard </type>
@@ -2580,7 +2580,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Kindly Skywinder Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Drake </type>
@@ -2594,7 +2594,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Music of the Deepholt Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Enchantment Creature - Wonder </type>
@@ -2608,7 +2608,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>New Tensuo Clergy Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Wonder Elf Cleric </type>
@@ -2622,7 +2622,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>New Tensuo Vanguard Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
@@ -2636,7 +2636,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Wonder Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder  </type>
@@ -2649,7 +2649,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Redefinition WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Wonder Jellyfish </type>
@@ -2663,7 +2663,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Stardust Haze Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment Creature - Wonder </type>
@@ -2678,7 +2678,7 @@ When this enchantment enters, exile target nonland permanent you don’t control
     </card>
     <card>
       <name>Ageless Caretaker Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Demigod Cleric </type>
@@ -2693,7 +2693,7 @@ This creature gets +1/+0 for each other creature you control.
     </card>
     <card>
       <name>New Tensuo Physician Token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Elf Druid </type>
@@ -2707,7 +2707,7 @@ This creature gets +1/+0 for each other creature you control.
     </card>
     <card>
       <name>Vrep token WAW</name>
-      <set>WAW</set>
+      <set>tokens</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Salamander </type>
