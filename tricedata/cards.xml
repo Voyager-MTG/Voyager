@@ -123,7 +123,6 @@ When Put Under Custody enters, exile up to one target creature or planeswalker u
     </card>
     <card>
       <name>Protect the Uninjected</name>
-      <set rarity="common">AKT</set>
       <set rarity="common" uuid="4">AKT</set>
       <prop>
         <colors>W</colors>
