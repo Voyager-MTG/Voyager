@@ -14667,7 +14667,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
 • Impaling Lance deals 2 damage to target attacking or blocking creature.</text>
     </card>
     <card>
-      <name>Overwhelming Presence</name>
+      <name>Show of Might</name>
       <set rarity="common" uuid="989">HOD</set>
       <prop>
         <colors>U</colors>
@@ -14677,8 +14677,10 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature to its owner’s hand.
-Draw a card.</text>
+      <text>Choose one —
+• Return target creature to its owner’s hand.
+• Draw a card.
+• Return up to three tokens in target player’s reserves to their owner’s hand.</text>
     </card>
     <card>
       <name>Pull unto Death</name>
@@ -15375,8 +15377,8 @@ Flying</text>
       <set rarity="common" uuid="1037">HOD</set>
       <prop>
         <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -15473,7 +15475,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hopeful Spouse enters, choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>When Hopeful Spouse enters, create a 2/1 red Soldier creature token in your reserves. (3: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>King&apos;s Rock Warden</name>
