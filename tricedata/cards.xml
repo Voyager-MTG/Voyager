@@ -33862,7 +33862,7 @@ Counter target spell with a creature type.</text>
       <set rarity="uncommon" uuid="2291">WAW</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
+        <manacost>2R</manacost>
         <cmc>2</cmc>
         <type>Creature - Elf Rogue </type>
         <maintype>Creature</maintype>
