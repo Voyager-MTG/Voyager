@@ -19189,23 +19189,8 @@ Put a burden counter on The Howling Door: You lose 1 life for each burden counte
 When you cast The Horned-Axe, until your next turn, your life total can’t change.</text>
     </card>
     <card>
-      <name>The Crowned Growth</name>
-      <set rarity="mythic" uuid="1295">PTN</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>4BB</manacost>
-        <cmc>6</cmc>
-        <type>Legendary Creature - Fungus God </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever a creature dealt damage by The Crowned Growth this turn dies, its controller gets two poison counters.
-When The Crowned Growth leaves the battlefield, up to one target creature you control becomes a copy of The Crowned Growth. (This effect lasts indefinitely.)</text>
-    </card>
-    <card>
       <name>Implant the Seeds</name>
-      <set rarity="common" uuid="1296">PTN</set>
+      <set rarity="common" uuid="1295">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -19219,7 +19204,7 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
     </card>
     <card>
       <name>Mother of Ants</name>
-      <set rarity="rare" uuid="1297">PTN</set>
+      <set rarity="rare" uuid="1296">PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>2UR</manacost>
@@ -19234,7 +19219,7 @@ At the beginning of each of your postcombat main phases, add {R} for each 2 life
     </card>
     <card>
       <name>The Elegiast</name>
-      <set rarity="rare" uuid="1298">PTN</set>
+      <set rarity="rare" uuid="1297">PTN</set>
       <prop>
         <colors>UB</colors>
         <manacost>1UB</manacost>
@@ -19248,23 +19233,8 @@ At the beginning of each of your postcombat main phases, add {R} for each 2 life
 Once during each of your turns, you may cast a spell from your graveyard with a name noted for cards named The Elegiast.</text>
     </card>
     <card>
-      <name>The Forge of Days</name>
-      <set rarity="mythic" uuid="1299">PTN</set>
-      <prop>
-        <colors>WR</colors>
-        <manacost>2RRW</manacost>
-        <cmc>5</cmc>
-        <type>Legendary Creature - Elemental God </type>
-        <maintype>Creature</maintype>
-        <pt>3/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample, haste
-Whenever The Forge of Days attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Exile that creature at the beginning of the next end step.</text>
-    </card>
-    <card>
       <name>The Mirror-Queen</name>
-      <set rarity="mythic" uuid="1300">PTN</set>
+      <set rarity="mythic" uuid="1298">PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -19280,7 +19250,7 @@ UR, {T}: Create a token that’s a copy of target creature, except it has haste.
     </card>
     <card>
       <name>The Red Grail</name>
-      <set rarity="mythic" uuid="1301">PTN</set>
+      <set rarity="mythic" uuid="1299">PTN</set>
       <prop>
         <colors>BR</colors>
         <manacost>3BR</manacost>
@@ -19297,7 +19267,7 @@ Sacrifice a Vampire: The Red Grail deals 3 damage to any target. Activate only o
     </card>
     <card>
       <name>The Sun-In-Rags</name>
-      <set rarity="rare" uuid="1302">PTN</set>
+      <set rarity="rare" uuid="1300">PTN</set>
       <prop>
         <colors>WB</colors>
         <manacost>3WBB</manacost>
@@ -19310,36 +19280,6 @@ Sacrifice a Vampire: The Red Grail deals 3 damage to any target. Activate only o
       <text>Ward—-Sacrifice a creature.
 When The Sun-In-Rags enters, destroy target nonbasic permanent.
 Artifacts and creatures your opponents control enter the battlefield tapped.</text>
-    </card>
-    <card>
-      <name>The Thunderskin</name>
-      <set rarity="mythic" uuid="1303">PTN</set>
-      <prop>
-        <colors>WG</colors>
-        <manacost>2GW</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human God </type>
-        <maintype>Creature</maintype>
-        <pt>2/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample, lifelink, ward {1}
-Whenever an opponent casts a spell during your turn and when The Thunderskin dies, induct twice. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
-    </card>
-    <card>
-      <name>The Vagabond</name>
-      <set rarity="rare" uuid="1304">PTN</set>
-      <prop>
-        <colors>UG</colors>
-        <manacost>X1GU</manacost>
-        <cmc>3</cmc>
-        <type>Legendary Creature - Insect God </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-When The Vagabond enters, draw twice X cards. For each card drawn this way, discard a card unless you sacrifice another permanent.</text>
     </card>
     <card>
       <name>The Witch-and-Sister</name>
@@ -19380,7 +19320,7 @@ When this creature enters or transforms into The Sister-and-Witch, target creatu
     </card>
     <card>
       <name>The Wolf Divided</name>
-      <set rarity="mythic" uuid="1307">PTN</set>
+      <set rarity="mythic" uuid="1303">PTN</set>
       <prop>
         <colors>BRG</colors>
         <manacost>BRG</manacost>
@@ -19394,7 +19334,7 @@ When this creature enters or transforms into The Sister-and-Witch, target creatu
     </card>
     <card>
       <name>The Frangiclave</name>
-      <set rarity="mythic" uuid="1308">PTN</set>
+      <set rarity="mythic" uuid="1304">PTN</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -19409,7 +19349,7 @@ Equip—Discard a card.</text>
     </card>
     <card>
       <name>Glassgarden Prophet</name>
-      <set rarity="common" uuid="1309">PTN</set>
+      <set rarity="common" uuid="1305">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -19424,7 +19364,7 @@ Whenever you play a card from exile, Glassgarden Prophet gets +1/+0 until end of
     </card>
     <card>
       <name>Dreamway Key</name>
-      <set rarity="common" uuid="1310">PTN</set>
+      <set rarity="common" uuid="1306">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -19439,7 +19379,7 @@ Whenever Dreamway Key deals combat damage to a player, untap up to one target cr
     </card>
     <card>
       <name>Perfect Stillness</name>
-      <set rarity="common" uuid="1311">PTN</set>
+      <set rarity="common" uuid="1307">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -19452,7 +19392,7 @@ Whenever Dreamway Key deals combat damage to a player, untap up to one target cr
     </card>
     <card>
       <name>Sensation Ascender</name>
-      <set rarity="common" uuid="1312">PTN</set>
+      <set rarity="common" uuid="1308">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -19481,7 +19421,7 @@ When Wood’s Deceiver dies, mill three cards.</text>
     </card>
     <card>
       <name>Blazing Crescendo</name>
-      <set rarity="common" uuid="1314">PTN</set>
+      <set rarity="common" uuid="1310">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -19495,7 +19435,7 @@ Exile the top card of your library. Until the end of your next turn, you may pla
     </card>
     <card>
       <name>Lessons of Strife</name>
-      <set rarity="common" uuid="1315">PTN</set>
+      <set rarity="common" uuid="1311">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -19522,7 +19462,7 @@ Exile the top card of your library. Until the end of your next turn, you may pla
     </card>
     <card>
       <name>Thyrsine Tracker</name>
-      <set rarity="common" uuid="1317">PTN</set>
+      <set rarity="common" uuid="1313">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -19537,7 +19477,7 @@ Thyrsine Tracker enters with a +1/+1 counter on it if you control a Sanctuary or
     </card>
     <card>
       <name>Society Headquarters</name>
-      <set rarity="common" uuid="1318">PTN</set>
+      <set rarity="common" uuid="1314">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19552,7 +19492,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Enlightenment</name>
-      <set rarity="" uuid="1319">PTN</set>
+      <set rarity="" uuid="1315">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19568,7 +19508,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Glory</name>
-      <set rarity="" uuid="1320">PTN</set>
+      <set rarity="" uuid="1316">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19584,7 +19524,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Movement</name>
-      <set rarity="" uuid="1321">PTN</set>
+      <set rarity="" uuid="1317">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19600,7 +19540,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Openings</name>
-      <set rarity="" uuid="1322">PTN</set>
+      <set rarity="" uuid="1318">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19616,7 +19556,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Remembrance</name>
-      <set rarity="" uuid="1323">PTN</set>
+      <set rarity="" uuid="1319">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19632,7 +19572,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Reshaping</name>
-      <set rarity="" uuid="1324">PTN</set>
+      <set rarity="" uuid="1320">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19648,7 +19588,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Sensation</name>
-      <set rarity="" uuid="1325">PTN</set>
+      <set rarity="" uuid="1321">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19664,7 +19604,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Shedding</name>
-      <set rarity="" uuid="1326">PTN</set>
+      <set rarity="" uuid="1322">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19680,7 +19620,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Strength</name>
-      <set rarity="" uuid="1327">PTN</set>
+      <set rarity="" uuid="1323">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19696,7 +19636,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Sanctuary of Time</name>
-      <set rarity="" uuid="1328">PTN</set>
+      <set rarity="" uuid="1324">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19712,7 +19652,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Plains</name>
-      <set rarity="" uuid="1329">PTN</set>
+      <set rarity="" uuid="1325">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19725,7 +19665,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Plains 2</name>
-      <set rarity="" uuid="1330">PTN</set>
+      <set rarity="" uuid="1326">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19738,7 +19678,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Island</name>
-      <set rarity="" uuid="1331">PTN</set>
+      <set rarity="" uuid="1327">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19751,7 +19691,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Island 2</name>
-      <set rarity="" uuid="1332">PTN</set>
+      <set rarity="" uuid="1328">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19764,7 +19704,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Swamp</name>
-      <set rarity="" uuid="1333">PTN</set>
+      <set rarity="" uuid="1329">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19777,7 +19717,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Swamp 2</name>
-      <set rarity="" uuid="1334">PTN</set>
+      <set rarity="" uuid="1330">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19790,7 +19730,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Mountain</name>
-      <set rarity="" uuid="1335">PTN</set>
+      <set rarity="" uuid="1331">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19803,7 +19743,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Mountain 2</name>
-      <set rarity="" uuid="1336">PTN</set>
+      <set rarity="" uuid="1332">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19816,7 +19756,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Forest</name>
-      <set rarity="" uuid="1337">PTN</set>
+      <set rarity="" uuid="1333">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19829,7 +19769,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>PTN Forest 2</name>
-      <set rarity="" uuid="1338">PTN</set>
+      <set rarity="" uuid="1334">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -19842,7 +19782,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Burgeoning Risen</name>
-      <set rarity="common" uuid="1339">PTN</set>
+      <set rarity="common" uuid="1335">PTN</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -19856,7 +19796,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
     </card>
     <card>
       <name>Mirrored Wolf</name>
-      <set rarity="uncommon" uuid="1340">PTN</set>
+      <set rarity="uncommon" uuid="1336">PTN</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -19871,7 +19811,7 @@ When Mirrored Wolf enters, if target opponent controls no basic lands, put a +1/
     </card>
     <card>
       <name>Noon Delver Serpent</name>
-      <set rarity="common" uuid="1341">PTN</set>
+      <set rarity="common" uuid="1337">PTN</set>
       <prop>
         <colors></colors>
         <manacost>5</manacost>
@@ -19885,7 +19825,7 @@ When Mirrored Wolf enters, if target opponent controls no basic lands, put a +1/
     </card>
     <card>
       <name>Banisher Priest</name>
-      <set rarity="uncommon" uuid="1342">PTN</set>
+      <set rarity="uncommon" uuid="1338">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -19899,7 +19839,7 @@ When Mirrored Wolf enters, if target opponent controls no basic lands, put a +1/
     </card>
     <card>
       <name>Bars Across the Sun</name>
-      <set rarity="common" uuid="1343">PTN</set>
+      <set rarity="common" uuid="1339">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -19913,7 +19853,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
     </card>
     <card>
       <name>Broken Sun-Servant</name>
-      <set rarity="common" uuid="1344">PTN</set>
+      <set rarity="common" uuid="1340">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -19926,21 +19866,8 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
       <text>When Broken Sun-Servant enters, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
-      <name>Brought Back</name>
-      <set rarity="rare" uuid="1345">PTN</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>WW</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose up to two target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.</text>
-    </card>
-    <card>
       <name>Defacement</name>
-      <set rarity="uncommon" uuid="1346">PTN</set>
+      <set rarity="uncommon" uuid="1341">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -19953,7 +19880,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
     </card>
     <card>
       <name>Forge Secretkeeper</name>
-      <set rarity="common" uuid="1347">PTN</set>
+      <set rarity="common" uuid="1342">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -19967,7 +19894,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
     </card>
     <card>
       <name>Glass Guardian</name>
-      <set rarity="common" uuid="1348">PTN</set>
+      <set rarity="common" uuid="1343">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>4W</manacost>
@@ -19981,7 +19908,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
     </card>
     <card>
       <name>Iron Verdict</name>
-      <set rarity="common" uuid="1349">PTN</set>
+      <set rarity="common" uuid="1344">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -19995,7 +19922,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Legacy of Amber</name>
-      <set rarity="rare" uuid="1350">PTN</set>
+      <set rarity="rare" uuid="1345">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -20007,22 +19934,8 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       <text>At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target card in a graveyard, you may have it become foretold. (Their foretell costs are their mana costs if they aren’t already specified.)</text>
     </card>
     <card>
-      <name>Legacy of the Wheel</name>
-      <set rarity="rare" uuid="1351">PTN</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Kindred Enchantment - God </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Legacy of the Wheel enters, exile all the cards in your hand face down, then draw that many cards plus one.
-When Legacy of the Wheel is put into a graveyard from the battlefield, shuffle your hand into your library, then return the exiled cards to their owner’s hand.</text>
-    </card>
-    <card>
       <name>Legacy of Tides</name>
-      <set rarity="rare" uuid="1352">PTN</set>
+      <set rarity="rare" uuid="1346">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -20034,21 +19947,8 @@ When Legacy of the Wheel is put into a graveyard from the battlefield, shuffle y
       <text>Whenever an opponent loses life, you may return target creature card with mana value less than or equal to the life lost from your graveyard to your hand. Do this only once during each of your turns.</text>
     </card>
     <card>
-      <name>Legacy of Flint</name>
-      <set rarity="rare" uuid="1353">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Kindred Enchantment - God </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever you exile one or more cards, if they became foretold, Legacy of Flint deals 2 damage to any target. Otherwise, up to one target creature gains first strike until end of turn.</text>
-    </card>
-    <card>
       <name>Legacy of Coils</name>
-      <set rarity="rare" uuid="1354">PTN</set>
+      <set rarity="rare" uuid="1347">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -20062,7 +19962,7 @@ Whenever you attack, Legacy of Coils deals 1 damage to target attacking creature
     </card>
     <card>
       <name>Subverted Cyprian</name>
-      <set rarity="common" uuid="1355">PTN</set>
+      <set rarity="common" uuid="1348">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -20078,7 +19978,7 @@ Whenever you attack, Legacy of Coils deals 1 damage to target attacking creature
     </card>
     <card>
       <name>Verse Illuminate</name>
-      <set rarity="common" uuid="1356">PTN</set>
+      <set rarity="common" uuid="1349">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -20092,7 +19992,7 @@ As long as you control a God, you may cast Verse Illuminate from your graveyard.
     </card>
     <card>
       <name>Verse Open</name>
-      <set rarity="common" uuid="1357">PTN</set>
+      <set rarity="common" uuid="1350">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -20106,7 +20006,7 @@ As long as you control a God, you may cast Verse Open from your graveyard. Then 
     </card>
     <card>
       <name>Verse Change</name>
-      <set rarity="common" uuid="1358">PTN</set>
+      <set rarity="common" uuid="1351">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20120,7 +20020,7 @@ As long as you control a God, you may cast Verse Change from your graveyard. The
     </card>
     <card>
       <name>Verse Reshape</name>
-      <set rarity="common" uuid="1359">PTN</set>
+      <set rarity="common" uuid="1352">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -20134,7 +20034,7 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
     </card>
     <card>
       <name>Verse Aggress</name>
-      <set rarity="common" uuid="1360">PTN</set>
+      <set rarity="common" uuid="1353">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -20148,7 +20048,7 @@ As long as you control a God, you may cast Verse Aggress from your graveyard. Th
     </card>
     <card>
       <name>Nowhere Inhabits</name>
-      <set rarity="uncommon" uuid="1361">PTN</set>
+      <set rarity="uncommon" uuid="1354">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -20162,7 +20062,7 @@ Sacrifice it at the beginning of the next end step unless you pay {2}.</text>
     </card>
     <card>
       <name>Names of the Dead</name>
-      <set rarity="common" uuid="1362">PTN</set>
+      <set rarity="common" uuid="1355">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -20175,7 +20075,7 @@ Sacrifice it at the beginning of the next end step unless you pay {2}.</text>
     </card>
     <card>
       <name>Nowhere Illuminator</name>
-      <set rarity="common" uuid="1363">PTN</set>
+      <set rarity="common" uuid="1356">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -20187,20 +20087,6 @@ Sacrifice it at the beginning of the next end step unless you pay {2}.</text>
       <tablerow>2</tablerow>
       <text>When Nowhere Illuminator enters, you may sacrifice a creature. If you do, draw a card.
 {1}, {T}: Draw a card, then discard a card.</text>
-    </card>
-    <card>
-      <name>Prison of Glass</name>
-      <set rarity="common" uuid="1364">PTN</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant creature
-Enchanted creature is a blue Reflection, gets -3/-0, loses all abilities, and can’t be sacrificed.</text>
     </card>
     <card>
       <name>Rite of Twins&apos; Union</name>
@@ -20231,7 +20117,7 @@ Foretell 2UU (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Seven-Coil Shipbreaker</name>
-      <set rarity="common" uuid="1367">PTN</set>
+      <set rarity="common" uuid="1359">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>4UU</manacost>
@@ -20245,7 +20131,7 @@ Foretell 2UU (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Carapace Shearer</name>
-      <set rarity="common" uuid="1368">PTN</set>
+      <set rarity="common" uuid="1360">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20259,7 +20145,7 @@ Foretell 2UU (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Dry-Soul Angel</name>
-      <set rarity="uncommon" uuid="1369">PTN</set>
+      <set rarity="uncommon" uuid="1361">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -20274,7 +20160,7 @@ When Dry-Soul Angel enters, each player sacrifices a creature.</text>
     </card>
     <card>
       <name>Flesh Asunder</name>
-      <set rarity="uncommon" uuid="1370">PTN</set>
+      <set rarity="uncommon" uuid="1362">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20287,7 +20173,7 @@ When Dry-Soul Angel enters, each player sacrifices a creature.</text>
     </card>
     <card>
       <name>Herald of Loss</name>
-      <set rarity="common" uuid="1371">PTN</set>
+      <set rarity="common" uuid="1363">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20301,22 +20187,8 @@ When Dry-Soul Angel enters, each player sacrifices a creature.</text>
 When Herald of Loss enters, each opponent sends a foretold card to the graveyard or discards a card.</text>
     </card>
     <card>
-      <name>The Museum of Worms</name>
-      <set rarity="rare" uuid="1372">PTN</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever a creature dies, put an omen counter on The Museum of Worms.
-Remove twice X omen counters from The Museum of Worms and sacrifice it: Create X 1/1 black Worm creature tokens with deathtouch and infect. Activate only as a sorcery. (That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
-    </card>
-    <card>
       <name>Skintwist</name>
-      <set rarity="rare" uuid="1373">PTN</set>
+      <set rarity="rare" uuid="1364">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20330,7 +20202,7 @@ When enchanted creature dies, put target creature card with mana value X or less
     </card>
     <card>
       <name>Carnal Thirst</name>
-      <set rarity="rare" uuid="1374">PTN</set>
+      <set rarity="rare" uuid="1365">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>X1R</manacost>
@@ -20343,7 +20215,7 @@ When enchanted creature dies, put target creature card with mana value X or less
     </card>
     <card>
       <name>Ignus Rites</name>
-      <set rarity="uncommon" uuid="1375">PTN</set>
+      <set rarity="uncommon" uuid="1366">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -20358,21 +20230,8 @@ When enchanted creature dies, put target creature card with mana value X or less
 Until the end of your next turn, you may play the exiled card.</text>
     </card>
     <card>
-      <name>Ascent from Snakes</name>
-      <set rarity="uncommon" uuid="1376">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>1GG</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Distribute X +1/+1 counters among creatures you control, where X is one plus the number of cards you’ve drawn this turn.</text>
-    </card>
-    <card>
       <name>The Vitulation</name>
-      <set rarity="uncommon" uuid="1377">PTN</set>
+      <set rarity="uncommon" uuid="1367">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -20386,7 +20245,7 @@ At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
     </card>
     <card>
       <name>Rite Intercalate</name>
-      <set rarity="mythic" uuid="1378">PTN</set>
+      <set rarity="mythic" uuid="1368">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -20400,7 +20259,7 @@ If you own 36 or more cards in exile you win the game. Otherwise, Rite Intercala
     </card>
     <card>
       <name>Foul Alteration</name>
-      <set rarity="uncommon" uuid="1379">PTN</set>
+      <set rarity="uncommon" uuid="1369">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -20413,7 +20272,7 @@ If you own 36 or more cards in exile you win the game. Otherwise, Rite Intercala
     </card>
     <card>
       <name>Stained Silver</name>
-      <set rarity="common" uuid="1380">PTN</set>
+      <set rarity="common" uuid="1370">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -20428,7 +20287,7 @@ Equip 1R</text>
     </card>
     <card>
       <name>Subvert the Light</name>
-      <set rarity="common" uuid="1381">PTN</set>
+      <set rarity="common" uuid="1371">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -20442,7 +20301,7 @@ Foretell {R} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Subverting Insurgent</name>
-      <set rarity="common" uuid="1382">PTN</set>
+      <set rarity="common" uuid="1372">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -20457,7 +20316,7 @@ Subverting Insurgent can’t block.</text>
     </card>
     <card>
       <name>Unlucky Witness</name>
-      <set rarity="uncommon" uuid="1383">PTN</set>
+      <set rarity="uncommon" uuid="1373">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -20485,7 +20344,7 @@ Draw cards equal to the sacrificed creature’s power.</text>
     </card>
     <card>
       <name>Ezeem, the Second Thirstly</name>
-      <set rarity="rare" uuid="1385">PTN</set>
+      <set rarity="rare" uuid="1375">PTN</set>
       <prop>
         <colors>BR</colors>
         <manacost>2BR</manacost>
@@ -20502,7 +20361,7 @@ Ezeem, the Second Thirstly gets +X/+0, where X is the greatest amount of life a 
     </card>
     <card>
       <name>King Crucible</name>
-      <set rarity="rare" uuid="1386">PTN</set>
+      <set rarity="rare" uuid="1376">PTN</set>
       <prop>
         <colors>WR</colors>
         <manacost>2RRW</manacost>
@@ -20516,7 +20375,7 @@ Ezeem, the Second Thirstly gets +X/+0, where X is the greatest amount of life a 
     </card>
     <card>
       <name>The Moth</name>
-      <set rarity="mythic" uuid="1387">PTN</set>
+      <set rarity="mythic" uuid="1377">PTN</set>
       <prop>
         <colors>BG</colors>
         <manacost>3BG</manacost>
@@ -20545,7 +20404,7 @@ If you would draw a card, instead mill three cards.
     </card>
     <card>
       <name>Spirit of Defiance</name>
-      <set rarity="uncommon" uuid="1389">PTN</set>
+      <set rarity="uncommon" uuid="1379">PTN</set>
       <prop>
         <colors>RG</colors>
         <manacost>2RG</manacost>
@@ -20560,7 +20419,7 @@ Whenever you attack, you may deal 1 damage to target attacking creature. If you 
     </card>
     <card>
       <name>True Blood of Saint Janus</name>
-      <set rarity="rare" uuid="1390">PTN</set>
+      <set rarity="rare" uuid="1380">PTN</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
@@ -20574,7 +20433,7 @@ Whenever you attack, you may deal 1 damage to target attacking creature. If you 
     </card>
     <card>
       <name>House of the Moon</name>
-      <set rarity="rare" uuid="1391">PTN</set>
+      <set rarity="rare" uuid="1381">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -20588,7 +20447,7 @@ Whenever you attack, you may deal 1 damage to target attacking creature. If you 
     </card>
     <card>
       <name>Extract Secrets</name>
-      <set rarity="common" uuid="1392">PTN</set>
+      <set rarity="common" uuid="1382">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -20602,7 +20461,7 @@ Foretell 2W (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Ignite Fervor</name>
-      <set rarity="common" uuid="1393">PTN</set>
+      <set rarity="common" uuid="1383">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -20616,7 +20475,7 @@ Foretell 2W (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Lended Light</name>
-      <set rarity="common" uuid="1394">PTN</set>
+      <set rarity="common" uuid="1384">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -20630,7 +20489,7 @@ Exile target creature or enchantment.</text>
     </card>
     <card>
       <name>Unscarred Wolf</name>
-      <set rarity="common" uuid="1395">PTN</set>
+      <set rarity="common" uuid="1385">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -20644,7 +20503,7 @@ Exile target creature or enchantment.</text>
     </card>
     <card>
       <name>Fucine Translator</name>
-      <set rarity="common" uuid="1396">PTN</set>
+      <set rarity="common" uuid="1386">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -20659,7 +20518,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Forgotten Tongues</name>
-      <set rarity="common" uuid="1397">PTN</set>
+      <set rarity="common" uuid="1387">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -20674,7 +20533,7 @@ Foretell {U} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Take Prisoners</name>
-      <set rarity="common" uuid="1398">PTN</set>
+      <set rarity="common" uuid="1388">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -20702,7 +20561,7 @@ Whenever you exile one or more cards, you get a Scar if this is the first time t
     </card>
     <card>
       <name>Sun-Scorched Tempering</name>
-      <set rarity="uncommon" uuid="1400">PTN</set>
+      <set rarity="uncommon" uuid="1390">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -20730,7 +20589,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Corrivality</name>
-      <set rarity="uncommon" uuid="1402">PTN</set>
+      <set rarity="uncommon" uuid="1392">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -20743,7 +20602,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Lost Seraph</name>
-      <set rarity="common" uuid="1403">PTN</set>
+      <set rarity="common" uuid="1393">PTN</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -20758,7 +20617,7 @@ As long as you control a God, Cleric, or another Angel, Lost Seraph has “When 
     </card>
     <card>
       <name>Misguiding Lighthouse</name>
-      <set rarity="uncommon" uuid="1404">PTN</set>
+      <set rarity="uncommon" uuid="1394">PTN</set>
       <prop>
         <colors></colors>
         <manacost>5</manacost>
@@ -20773,7 +20632,7 @@ When Misguiding Lighthouse enters, destroy target tapped artifact or creature an
     </card>
     <card>
       <name>Planar Lockdown</name>
-      <set rarity="rare" uuid="1405">PTN</set>
+      <set rarity="rare" uuid="1395">PTN</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
@@ -20787,7 +20646,7 @@ Whenever a planeswalker enters, remove all but one of its loyalty counters from 
     </card>
     <card>
       <name>Angel of the True Sun</name>
-      <set rarity="rare" uuid="1406">PTN</set>
+      <set rarity="rare" uuid="1396">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -20802,7 +20661,7 @@ Whenever Angel of the True Sun enters or a Sanctuary you control is put into a g
     </card>
     <card>
       <name>Rarefied Illuminator</name>
-      <set rarity="uncommon" uuid="1407">PTN</set>
+      <set rarity="uncommon" uuid="1397">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -20818,7 +20677,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Sunshard Protector</name>
-      <set rarity="uncommon" uuid="1408">PTN</set>
+      <set rarity="uncommon" uuid="1398">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -20834,7 +20693,7 @@ When Sunshard Protector or another Angel enters under your control, put a +1/+1 
     </card>
     <card>
       <name>Crowned Ghoul</name>
-      <set rarity="rare" uuid="1409">PTN</set>
+      <set rarity="rare" uuid="1399">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -20850,7 +20709,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
     </card>
     <card>
       <name>Paradoxical Inquiry</name>
-      <set rarity="common" uuid="1410">PTN</set>
+      <set rarity="common" uuid="1400">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -20865,7 +20724,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
     </card>
     <card>
       <name>Rite of Crucible Soul</name>
-      <set rarity="common" uuid="1411">PTN</set>
+      <set rarity="common" uuid="1401">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -20880,7 +20739,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
     </card>
     <card>
       <name>Seven-Coil Invocation</name>
-      <set rarity="common" uuid="1412">PTN</set>
+      <set rarity="common" uuid="1402">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -20905,23 +20764,8 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
       <text>Destroy target creature. Its controller loses 1 life.</text>
     </card>
     <card>
-      <name>The Chiliarch</name>
-      <set rarity="mythic" uuid="1414">PTN</set>
-      <prop>
-        <colors>UG</colors>
-        <manacost>2GU</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human God </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever The Chiliarch becomes the target of a spell or ability an opponent controls, you may tap target nonland permanent, put three stun counters on it.
-If a creature would deal damage to The Chiliarch, if that creature isn’t attacking, prevent that damage and put a +1/+1 counter on The Chiliarch.</text>
-    </card>
-    <card>
       <name>The Lionsmith</name>
-      <set rarity="rare" uuid="1415">PTN</set>
+      <set rarity="rare" uuid="1404">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -20937,7 +20781,7 @@ If a creature would deal damage to The Chiliarch, if that creature isn’t attac
     </card>
     <card>
       <name>The Knotwingknot</name>
-      <set rarity="rare" uuid="1416">PTN</set>
+      <set rarity="rare" uuid="1405">PTN</set>
       <prop>
         <colors>BG</colors>
         <manacost>1BG</manacost>
@@ -20952,7 +20796,7 @@ If you would draw a card while your library has no cards in it, each opponent lo
     </card>
     <card>
       <name>The Ring-Yew</name>
-      <set rarity="rare" uuid="1417">PTN</set>
+      <set rarity="rare" uuid="1406">PTN</set>
       <prop>
         <colors>WG</colors>
         <manacost>1GW</manacost>
@@ -20966,7 +20810,7 @@ If you would draw a card while your library has no cards in it, each opponent lo
     </card>
     <card>
       <name>The Watchman</name>
-      <set rarity="rare" uuid="1418">PTN</set>
+      <set rarity="rare" uuid="1407">PTN</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -20982,7 +20826,7 @@ Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman.
     </card>
     <card>
       <name>Preemptive Purge</name>
-      <set rarity="uncommon" uuid="1419">PTN</set>
+      <set rarity="uncommon" uuid="1408">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -20997,7 +20841,7 @@ Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman.
     </card>
     <card>
       <name>Reshaping Phoenix</name>
-      <set rarity="rare" uuid="1420">PTN</set>
+      <set rarity="rare" uuid="1409">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -21012,7 +20856,7 @@ You may cast this spell from your graveyard if you exiled one or more cards this
     </card>
     <card>
       <name>Acolyte of Agony</name>
-      <set rarity="uncommon" uuid="1421">PTN</set>
+      <set rarity="uncommon" uuid="1410">PTN</set>
       <prop>
         <colors>BR</colors>
         <manacost>BR</manacost>
@@ -21027,7 +20871,7 @@ You may cast this spell from your graveyard if you exiled one or more cards this
     </card>
     <card>
       <name>The Geminiad</name>
-      <set rarity="rare" uuid="1422">PTN</set>
+      <set rarity="rare" uuid="1411">PTN</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -21041,7 +20885,7 @@ You may cast this spell from your graveyard if you exiled one or more cards this
     </card>
     <card>
       <name>Discover the Stone Gods</name>
-      <set rarity="common" uuid="1423">PTN</set>
+      <set rarity="common" uuid="1412">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -21055,7 +20899,7 @@ Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics:
     </card>
     <card>
       <name>Noonstone Amulet</name>
-      <set rarity="common" uuid="1424">PTN</set>
+      <set rarity="common" uuid="1413">PTN</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -21069,7 +20913,7 @@ Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics:
     </card>
     <card>
       <name>Forged Conflagration</name>
-      <set rarity="uncommon" uuid="1425">PTN</set>
+      <set rarity="uncommon" uuid="1414">PTN</set>
       <prop>
         <colors>WR</colors>
         <manacost>RW</manacost>
@@ -21084,7 +20928,7 @@ Forged Conflagration deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Nowhere Razer</name>
-      <set rarity="uncommon" uuid="1426">PTN</set>
+      <set rarity="uncommon" uuid="1415">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -21100,7 +20944,7 @@ Lands your opponents control with counters on them are Mountains.</text>
     </card>
     <card>
       <name>Wildwood Containment</name>
-      <set rarity="common" uuid="1427">PTN</set>
+      <set rarity="common" uuid="1416">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -21116,7 +20960,7 @@ Lands your opponents control with counters on them are Mountains.</text>
     </card>
     <card>
       <name>Wolven Hatred</name>
-      <set rarity="common" uuid="1428">PTN</set>
+      <set rarity="common" uuid="1417">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -21130,7 +20974,7 @@ Target creature you control fights up to one target creature you don’t control
     </card>
     <card>
       <name>Open the Self</name>
-      <set rarity="common" uuid="1429">PTN</set>
+      <set rarity="common" uuid="1418">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -21144,7 +20988,7 @@ You get a Scar. (It’s a boon with “When a creature you control dies, you may
     </card>
     <card>
       <name>Bringer of Glory</name>
-      <set rarity="common" uuid="1430">PTN</set>
+      <set rarity="common" uuid="1419">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -21159,7 +21003,7 @@ Whenever Bringer of Glory enters or attacks, you may pay {1}. If you do, induct.
     </card>
     <card>
       <name>Relic Vial</name>
-      <set rarity="rare" uuid="1431">PTN</set>
+      <set rarity="rare" uuid="1420">PTN</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -21173,7 +21017,7 @@ As long as you control a Cleric, Relic Vial has “Whenever a creature you contr
     </card>
     <card>
       <name>Ritual Daggar</name>
-      <set rarity="uncommon" uuid="1432">PTN</set>
+      <set rarity="uncommon" uuid="1421">PTN</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -21186,7 +21030,7 @@ As long as you control a Cleric, Relic Vial has “Whenever a creature you contr
     </card>
     <card>
       <name>Nowhere Deathlord</name>
-      <set rarity="uncommon" uuid="1433">PTN</set>
+      <set rarity="uncommon" uuid="1422">PTN</set>
       <prop>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -21201,7 +21045,7 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with 
     </card>
     <card>
       <name>Nowhere Dreadsteed</name>
-      <set rarity="uncommon" uuid="1434">PTN</set>
+      <set rarity="uncommon" uuid="1423">PTN</set>
       <prop>
         <colors>UB</colors>
         <manacost>1UB</manacost>
@@ -21215,7 +21059,7 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with 
     </card>
     <card>
       <name>Flames of Emnity</name>
-      <set rarity="uncommon" uuid="1435">PTN</set>
+      <set rarity="uncommon" uuid="1424">PTN</set>
       <prop>
         <colors>RG</colors>
         <manacost>RG</manacost>
@@ -21230,7 +21074,7 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with 
     </card>
     <card>
       <name>Guided Crusader</name>
-      <set rarity="common" uuid="1436">PTN</set>
+      <set rarity="common" uuid="1425">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -21246,7 +21090,7 @@ Foretell 4WW (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Cindered Tally</name>
-      <set rarity="common" uuid="1437">PTN</set>
+      <set rarity="common" uuid="1426">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>BB</manacost>
@@ -21261,7 +21105,7 @@ Foretell 1B (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Escape into the Night</name>
-      <set rarity="common" uuid="1438">PTN</set>
+      <set rarity="common" uuid="1427">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -21275,7 +21119,7 @@ Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: 
     </card>
     <card>
       <name>High Cyprian</name>
-      <set rarity="common" uuid="1439">PTN</set>
+      <set rarity="common" uuid="1428">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -21289,7 +21133,7 @@ Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: 
     </card>
     <card>
       <name>Raw Prophet</name>
-      <set rarity="common" uuid="1440">PTN</set>
+      <set rarity="common" uuid="1429">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -21304,7 +21148,7 @@ Whenever Raw Prophet attacks, you may discard a card. If you do, draw a card.</t
     </card>
     <card>
       <name>Seven-Coiled Strength</name>
-      <set rarity="common" uuid="1441">PTN</set>
+      <set rarity="common" uuid="1430">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -21346,7 +21190,7 @@ Foretell {G} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>The Sky, The Soul</name>
-      <set rarity="uncommon" uuid="1444">PTN</set>
+      <set rarity="uncommon" uuid="1433">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -21359,7 +21203,7 @@ Foretell {G} (During your turn, you may pay {2} and exile this card from your ha
     </card>
     <card>
       <name>Roost Messengers</name>
-      <set rarity="common" uuid="1445">PTN</set>
+      <set rarity="common" uuid="1434">PTN</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -21373,23 +21217,8 @@ Foretell {G} (During your turn, you may pay {2} and exile this card from your ha
 When Roost Messengers enters, you may search your library for a basic land or Sanctuary card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
-      <name>Glassgarden Watcheye</name>
-      <set rarity="rare" uuid="1446">PTN</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever Glassgarden Watcheye or another Cleric you control enters, target creature gets +1/+1 and gains vigilance until end of turn.
-1W: Induct. Activate only as a sorcery. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
-    </card>
-    <card>
       <name>Guardian Percussigant</name>
-      <set rarity="uncommon" uuid="1447">PTN</set>
+      <set rarity="uncommon" uuid="1435">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -21404,7 +21233,7 @@ Gods you control have vigilance.</text>
     </card>
     <card>
       <name>Apostle Entheate</name>
-      <set rarity="rare" uuid="1448">PTN</set>
+      <set rarity="rare" uuid="1436">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -21436,7 +21265,7 @@ Exile Cat o’lic Priests: Exile all graveyards. Activate only as a sorcery.</te
     </card>
     <card>
       <name>Echoing Charger</name>
-      <set rarity="common" uuid="1450">PTN</set>
+      <set rarity="common" uuid="1438">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -21450,7 +21279,7 @@ Exile Cat o’lic Priests: Exile all graveyards. Activate only as a sorcery.</te
     </card>
     <card>
       <name>Glassgarden Elder</name>
-      <set rarity="common" uuid="1451">PTN</set>
+      <set rarity="common" uuid="1439">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -21464,7 +21293,7 @@ Exile Cat o’lic Priests: Exile all graveyards. Activate only as a sorcery.</te
     </card>
     <card>
       <name>Glassgarden Seer</name>
-      <set rarity="common" uuid="1452">PTN</set>
+      <set rarity="common" uuid="1440">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -21478,7 +21307,7 @@ Exile Cat o’lic Priests: Exile all graveyards. Activate only as a sorcery.</te
     </card>
     <card>
       <name>Glorious Enforcer</name>
-      <set rarity="mythic" uuid="1453">PTN</set>
+      <set rarity="mythic" uuid="1441">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>5WW</manacost>
@@ -21493,7 +21322,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
     </card>
     <card>
       <name>Horomachist Sacrifice</name>
-      <set rarity="uncommon" uuid="1454">PTN</set>
+      <set rarity="uncommon" uuid="1442">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -21508,7 +21337,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
     </card>
     <card>
       <name>Merciless Illumination</name>
-      <set rarity="rare" uuid="1455">PTN</set>
+      <set rarity="rare" uuid="1443">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>4WW</manacost>
@@ -21524,7 +21353,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
     </card>
     <card>
       <name>Mystical Trail</name>
-      <set rarity="common" uuid="1456">PTN</set>
+      <set rarity="common" uuid="1444">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -21539,7 +21368,7 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
     </card>
     <card>
       <name>Pulsing Vitality</name>
-      <set rarity="common" uuid="1457">PTN</set>
+      <set rarity="common" uuid="1445">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -21552,7 +21381,7 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
     </card>
     <card>
       <name>Root of Mercy</name>
-      <set rarity="uncommon" uuid="1458">PTN</set>
+      <set rarity="uncommon" uuid="1446">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -21565,7 +21394,7 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
     </card>
     <card>
       <name>Seven-Coil Glider</name>
-      <set rarity="uncommon" uuid="1459">PTN</set>
+      <set rarity="uncommon" uuid="1447">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -21580,7 +21409,7 @@ During your turn, as long as you’ve exiled a card this turn, Seven-Coil Glider
     </card>
     <card>
       <name>Augury Raven</name>
-      <set rarity="common" uuid="1460">PTN</set>
+      <set rarity="common" uuid="1448">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -21595,7 +21424,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Devoured Messenger</name>
-      <set rarity="rare" uuid="1461">PTN</set>
+      <set rarity="rare" uuid="1449">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21609,21 +21438,8 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
 When you sacrifice Devoured Messenger, you may exile it. When you do, you may cast target noncreature spell with mana value 4 or less from your hand or graveyard without paying its mana cost.</text>
     </card>
     <card>
-      <name>Expose Mortality</name>
-      <set rarity="uncommon" uuid="1462">PTN</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Until end of turn, target creature loses all abilities and becomes a Cleric with base power and toughness 0/1. You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
-    </card>
-    <card>
       <name>Eyes Everywhere</name>
-      <set rarity="uncommon" uuid="1463">PTN</set>
+      <set rarity="uncommon" uuid="1450">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21637,7 +21453,7 @@ When you sacrifice Devoured Messenger, you may exile it. When you do, you may ca
     </card>
     <card>
       <name>Painted Distorter</name>
-      <set rarity="rare" uuid="1464">PTN</set>
+      <set rarity="rare" uuid="1451">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>5U</manacost>
@@ -21668,7 +21484,7 @@ This spell costs {2} less to cast for each card you’ve drawn this turn.</text>
     </card>
     <card>
       <name>Moonlit Augury</name>
-      <set rarity="uncommon" uuid="1466">PTN</set>
+      <set rarity="uncommon" uuid="1453">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21681,7 +21497,7 @@ This spell costs {2} less to cast for each card you’ve drawn this turn.</text>
     </card>
     <card>
       <name>Dreamway Imposter</name>
-      <set rarity="common" uuid="1467">PTN</set>
+      <set rarity="common" uuid="1454">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21696,7 +21512,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Nowhere Soul Collector</name>
-      <set rarity="uncommon" uuid="1468">PTN</set>
+      <set rarity="uncommon" uuid="1455">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21711,7 +21527,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
     </card>
     <card>
       <name>Nowhere Wormhost</name>
-      <set rarity="common" uuid="1469">PTN</set>
+      <set rarity="common" uuid="1456">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21725,7 +21541,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
     </card>
     <card>
       <name>Opener of Realities</name>
-      <set rarity="uncommon" uuid="1470">PTN</set>
+      <set rarity="uncommon" uuid="1457">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21739,24 +21555,8 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
 Whenever Opener of Realities deals combat damage to a player, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
-      <name>Ophidian Soul</name>
-      <set rarity="rare" uuid="1471">PTN</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Snake Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-As Ophidian Soul enters, choose another creature you control.
-Whenever Ophidian Soul or the chosen creature deals combat damage to a player, draw a card.</text>
-    </card>
-    <card>
       <name>River Drowner</name>
-      <set rarity="common" uuid="1472">PTN</set>
+      <set rarity="common" uuid="1458">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>4U</manacost>
@@ -21771,7 +21571,7 @@ When River Drowner enters, you may sacrifice a creature. If you do, return targe
     </card>
     <card>
       <name>Roost Nyctodromist</name>
-      <set rarity="uncommon" uuid="1473">PTN</set>
+      <set rarity="uncommon" uuid="1459">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21788,7 +21588,7 @@ Whenever another Cleric you control enters, untap Roost Nyctodromist.
     </card>
     <card>
       <name>Seaside Smuggler</name>
-      <set rarity="common" uuid="1474">PTN</set>
+      <set rarity="common" uuid="1460">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -21818,7 +21618,7 @@ Whenever Seven-Coil’s Scion becomes the target of a spell or ability an oppone
     </card>
     <card>
       <name>Silent Drowner</name>
-      <set rarity="uncommon" uuid="1476">PTN</set>
+      <set rarity="uncommon" uuid="1462">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -21833,7 +21633,7 @@ Whenever Seven-Coil’s Scion becomes the target of a spell or ability an oppone
     </card>
     <card>
       <name>Evening Isles Skycomber</name>
-      <set rarity="uncommon" uuid="1477">PTN</set>
+      <set rarity="uncommon" uuid="1463">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21863,7 +21663,7 @@ When Twins’ Guardian dies, induct. (Create a 0/1 Cleric creature token with �
     </card>
     <card>
       <name>Veil of Dreams</name>
-      <set rarity="common" uuid="1479">PTN</set>
+      <set rarity="common" uuid="1465">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21876,7 +21676,7 @@ When Twins’ Guardian dies, induct. (Create a 0/1 Cleric creature token with �
     </card>
     <card>
       <name>White Reaper</name>
-      <set rarity="common" uuid="1480">PTN</set>
+      <set rarity="common" uuid="1466">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -21891,7 +21691,7 @@ When White Reaper dies, tap target creature you don’t control. Put a stun coun
     </card>
     <card>
       <name>Cyprian Ophiomancer</name>
-      <set rarity="common" uuid="1481">PTN</set>
+      <set rarity="common" uuid="1467">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -21906,7 +21706,7 @@ When Cyprian Ophiomancer enters, if you control a Sanctuary or God, each opponen
     </card>
     <card>
       <name>Dream Whisperer</name>
-      <set rarity="rare" uuid="1482">PTN</set>
+      <set rarity="rare" uuid="1468">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>4BB</manacost>
@@ -21921,7 +21721,7 @@ When Dream Whisperer enters, search your library for a card, exile it face down.
     </card>
     <card>
       <name>Carapace Guardian</name>
-      <set rarity="uncommon" uuid="1483">PTN</set>
+      <set rarity="uncommon" uuid="1469">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -21935,7 +21735,7 @@ When Dream Whisperer enters, search your library for a card, exile it face down.
     </card>
     <card>
       <name>Carapace Scavenger</name>
-      <set rarity="common" uuid="1484">PTN</set>
+      <set rarity="common" uuid="1470">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -21950,7 +21750,7 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
     </card>
     <card>
       <name>Cyprian Haemomancer</name>
-      <set rarity="uncommon" uuid="1485">PTN</set>
+      <set rarity="uncommon" uuid="1471">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -21966,7 +21766,7 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
     </card>
     <card>
       <name>Despairing Devotee</name>
-      <set rarity="common" uuid="1486">PTN</set>
+      <set rarity="common" uuid="1472">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -21980,7 +21780,7 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
     </card>
     <card>
       <name>Escape from Nowhere</name>
-      <set rarity="common" uuid="1487">PTN</set>
+      <set rarity="common" uuid="1473">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -21993,7 +21793,7 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
     </card>
     <card>
       <name>Gloom Sower</name>
-      <set rarity="common" uuid="1488">PTN</set>
+      <set rarity="common" uuid="1474">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>5BB</manacost>
@@ -22007,7 +21807,7 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
     </card>
     <card>
       <name>Evening Isles Gravemouth</name>
-      <set rarity="rare" uuid="1489">PTN</set>
+      <set rarity="rare" uuid="1475">PTN</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -22022,7 +21822,7 @@ Whenever you sacrifice another nontoken creature, you may pay {U}. If you do, cr
     </card>
     <card>
       <name>Indulgent Cyprian</name>
-      <set rarity="common" uuid="1490">PTN</set>
+      <set rarity="common" uuid="1476">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -22037,7 +21837,7 @@ When Indulgent Cyprian enters, induct. (Create a 0/1 Cleric creature token with 
     </card>
     <card>
       <name>Monument of Rags</name>
-      <set rarity="uncommon" uuid="1491">PTN</set>
+      <set rarity="uncommon" uuid="1477">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -22050,7 +21850,7 @@ When Indulgent Cyprian enters, induct. (Create a 0/1 Cleric creature token with 
     </card>
     <card>
       <name>Nowhere Ascender</name>
-      <set rarity="common" uuid="1492">PTN</set>
+      <set rarity="common" uuid="1478">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -22065,7 +21865,7 @@ When Nowhere Ascender enters, you may sacrifice a creature. If you do, put a +1/
     </card>
     <card>
       <name>Nowhere Stygian</name>
-      <set rarity="rare" uuid="1493">PTN</set>
+      <set rarity="rare" uuid="1479">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -22094,7 +21894,7 @@ Whenever a player discards one or more cards, you get a Scar. This ability trigg
     </card>
     <card>
       <name>Scarring Servitude</name>
-      <set rarity="uncommon" uuid="1495">PTN</set>
+      <set rarity="uncommon" uuid="1481">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -22107,7 +21907,7 @@ Whenever a player discards one or more cards, you get a Scar. This ability trigg
     </card>
     <card>
       <name>Sky-Scar Angel</name>
-      <set rarity="common" uuid="1496">PTN</set>
+      <set rarity="common" uuid="1482">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -22122,7 +21922,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
     </card>
     <card>
       <name>Students of Rememberance</name>
-      <set rarity="uncommon" uuid="1497">PTN</set>
+      <set rarity="uncommon" uuid="1483">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>4B</manacost>
@@ -22136,7 +21936,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
     </card>
     <card>
       <name>Throat of Remnants</name>
-      <set rarity="uncommon" uuid="1498">PTN</set>
+      <set rarity="uncommon" uuid="1484">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -22150,7 +21950,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
     </card>
     <card>
       <name>Callidate Invocation</name>
-      <set rarity="common" uuid="1499">PTN</set>
+      <set rarity="common" uuid="1485">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -22163,7 +21963,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
     </card>
     <card>
       <name>Cyprian Sacristan</name>
-      <set rarity="uncommon" uuid="1500">PTN</set>
+      <set rarity="uncommon" uuid="1486">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -22177,7 +21977,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
     </card>
     <card>
       <name>Enflamed Caligine</name>
-      <set rarity="common" uuid="1501">PTN</set>
+      <set rarity="common" uuid="1487">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>4R</manacost>
@@ -22193,7 +21993,7 @@ Foretell 3R (During your turn, you may pay {2} and exile this card from your han
     </card>
     <card>
       <name>Entry Consultant</name>
-      <set rarity="common" uuid="1502">PTN</set>
+      <set rarity="common" uuid="1488">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>5R</manacost>
@@ -22208,7 +22008,7 @@ When Entry Consultant enters, it deals 1 damage to each creature, then creatures
     </card>
     <card>
       <name>Forces of Opening</name>
-      <set rarity="rare" uuid="1503">PTN</set>
+      <set rarity="rare" uuid="1489">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -22222,7 +22022,7 @@ Whenever one or more creatures you control become blocked, you may cast a spell 
     </card>
     <card>
       <name>Ghirbi, the Gatekeeper</name>
-      <set rarity="rare" uuid="1504">PTN</set>
+      <set rarity="rare" uuid="1490">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -22237,7 +22037,7 @@ When Ghirbi, the Gatekeeper dies, you get a boon with “Whenever you attack, un
     </card>
     <card>
       <name>Ironsmoke Caligine</name>
-      <set rarity="rare" uuid="1505">PTN</set>
+      <set rarity="rare" uuid="1491">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>7R</manacost>
@@ -22252,23 +22052,8 @@ This spell costs {1} less to cast for each 1 life your opponents have lost this 
 Other creatures you control have “Ward—Pay 2 life.”</text>
     </card>
     <card>
-      <name>Malleary Augmenter</name>
-      <set rarity="rare" uuid="1506">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Elemental Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>1/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Haste
-Whenever Malleary Augmenter or another Cleric you control enters, you may pay {R}. If you do, Cleric creatures you control get +1/+0 until end of turn.</text>
-    </card>
-    <card>
       <name>Malleary Novice</name>
-      <set rarity="common" uuid="1507">PTN</set>
+      <set rarity="common" uuid="1492">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -22283,7 +22068,7 @@ Whenever Malleary Novice attacks, target creature you control gets +1/+0 until e
     </card>
     <card>
       <name>Malleary Reforged</name>
-      <set rarity="uncommon" uuid="1508">PTN</set>
+      <set rarity="uncommon" uuid="1493">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -22297,52 +22082,8 @@ Whenever Malleary Novice attacks, target creature you control gets +1/+0 until e
 Whenever Malleary Reforged attacks, if you control a God, it deals 2 damage to any target.</text>
     </card>
     <card>
-      <name>Malleary Seer</name>
-      <set rarity="common" uuid="1509">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Elemental Knight </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you exile one or more cards, Malleary Seer gains first strike until end of turn.</text>
-    </card>
-    <card>
-      <name>Malleary Smelter</name>
-      <set rarity="uncommon" uuid="1510">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Shapeshifter Cleric Artificer </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>As long as you exiled a card this turn, Malleary Smelter is a Phoenix with flying and haste.
-Foretell 2R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-    </card>
-    <card>
-      <name>Opener of Glass</name>
-      <set rarity="uncommon" uuid="1511">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Rogue </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-Whenever Opener of Glass becomes blocked by one or more creatures, it deals 2 damage to each creature blocking Opener of Glass.</text>
-    </card>
-    <card>
       <name>Rite Flamecaller</name>
-      <set rarity="common" uuid="1512">PTN</set>
+      <set rarity="common" uuid="1494">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -22357,7 +22098,7 @@ Whenever Opener of Glass becomes blocked by one or more creatures, it deals 2 da
     </card>
     <card>
       <name>Smoldering Pack</name>
-      <set rarity="uncommon" uuid="1513">PTN</set>
+      <set rarity="uncommon" uuid="1495">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -22371,23 +22112,8 @@ Whenever Opener of Glass becomes blocked by one or more creatures, it deals 2 da
 1R: Wolves you control get +1/+0 and gain haste until end of turn.</text>
     </card>
     <card>
-      <name>Tattered Cyprian</name>
-      <set rarity="common" uuid="1514">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach
-When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
-    </card>
-    <card>
       <name>Traitorous Blood</name>
-      <set rarity="common" uuid="1515">PTN</set>
+      <set rarity="common" uuid="1496">PTN</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -22399,23 +22125,8 @@ When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar
       <text>Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.</text>
     </card>
     <card>
-      <name>Wandering Unmaker</name>
-      <set rarity="common" uuid="1516">PTN</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Shapeshifter Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-When Wandering Unmaker is dealt damage, if you control a Sanctuary or God, Wandering Unmaker deals 2 damage to each opponent.</text>
-    </card>
-    <card>
       <name>Carapace Crusader</name>
-      <set rarity="common" uuid="1517">PTN</set>
+      <set rarity="common" uuid="1497">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -22429,7 +22140,7 @@ When Wandering Unmaker is dealt damage, if you control a Sanctuary or God, Wande
     </card>
     <card>
       <name>Carapace Disciple</name>
-      <set rarity="common" uuid="1518">PTN</set>
+      <set rarity="common" uuid="1498">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -22443,7 +22154,7 @@ When Wandering Unmaker is dealt damage, if you control a Sanctuary or God, Wande
     </card>
     <card>
       <name>Carapace Threadbearer</name>
-      <set rarity="common" uuid="1519">PTN</set>
+      <set rarity="common" uuid="1499">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -22458,7 +22169,7 @@ When Carapace Threadbearer enters, if there are three or more creature cards in 
     </card>
     <card>
       <name>Carapace Voyager</name>
-      <set rarity="rare" uuid="1520">PTN</set>
+      <set rarity="rare" uuid="1500">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -22475,7 +22186,7 @@ When Carapace Threadbearer enters, if there are three or more creature cards in 
     </card>
     <card>
       <name>Carapace Youngling</name>
-      <set rarity="uncommon" uuid="1521">PTN</set>
+      <set rarity="uncommon" uuid="1501">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -22490,7 +22201,7 @@ Carapace Youngling gets +2/+2 as long as seven or more cards are in your graveya
     </card>
     <card>
       <name>Cartographed Risen</name>
-      <set rarity="common" uuid="1522">PTN</set>
+      <set rarity="common" uuid="1502">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>4G</manacost>
@@ -22505,7 +22216,7 @@ Whenever you draw your second card each turn, induct. (Create a 0/1 Cleric creat
     </card>
     <card>
       <name>Debilitated Tragulari</name>
-      <set rarity="uncommon" uuid="1523">PTN</set>
+      <set rarity="uncommon" uuid="1503">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -22520,7 +22231,7 @@ When Debilitated Tragulari enters, choose two target creatures controlled by dif
     </card>
     <card>
       <name>Flesh Weaver</name>
-      <set rarity="uncommon" uuid="1524">PTN</set>
+      <set rarity="uncommon" uuid="1504">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -22536,7 +22247,7 @@ Whenever Flesh Weaver attacks, you gain 1 life, surveil 1. Then exile a card fro
     </card>
     <card>
       <name>The Old Forms</name>
-      <set rarity="common" uuid="1525">PTN</set>
+      <set rarity="common" uuid="1505">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -22549,7 +22260,7 @@ Whenever Flesh Weaver attacks, you gain 1 life, surveil 1. Then exile a card fro
     </card>
     <card>
       <name>Ordeal of Defiance</name>
-      <set rarity="uncommon" uuid="1526">PTN</set>
+      <set rarity="uncommon" uuid="1506">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -22563,83 +22274,8 @@ Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has t
 When you sacrifice Ordeal of Defiance, you may have target creature you control fights another target creature.</text>
     </card>
     <card>
-      <name>Ravenous Unmaker</name>
-      <set rarity="uncommon" uuid="1527">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>3GG</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Wolf Berserker </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Ravenous Unmaker enters, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
-Whenever Ravenous Unmaker attacks or a boon you own triggers, creatures you control get +1/+1 and gain trample until end of turn.</text>
-    </card>
-    <card>
-      <name>Dappled Wing-Clippers</name>
-      <set rarity="uncommon" uuid="1528">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Insect Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Dappled Wing-Clippers enters, mill two cards.
-2GG, Sacrifice Dappled Wing-Clippers: Choose one —
-• Return up to two land cards from your graveyard to the battlefield tapped.
-• Destroy up to two target artifacts or enchantments.</text>
-    </card>
-    <card>
-      <name>Dyad&apos;s Dance</name>
-      <set rarity="rare">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Search your library for a creature card with the same total power and toughness as target creature an opponent controls, put it onto the battlefield, then shuffle.</text>
-    </card>
-    <card>
-      <name>Seven-Coil Ambusher</name>
-      <set rarity="common" uuid="1530">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Serpent Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Deathtouch
-Whenever Seven-Coil Ambusher attacks, you may have it lose deathtouch until end of turn. If you do, target creature gains deathtouch and “This creature can’t be blocked by token Clerics” until end of turn.</text>
-    </card>
-    <card>
-      <name>Splinter-Blossom</name>
-      <set rarity="uncommon" uuid="1531">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Wolf Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Creatures with power less than Splinter-Blossom’s power can’t block it.
-Whenever Splinter-Blossom is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counters.)</text>
-    </card>
-    <card>
       <name>Pupil of Defiance</name>
-      <set rarity="common" uuid="1532">PTN</set>
+      <set rarity="common" uuid="1507">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -22654,21 +22290,8 @@ Whenever Splinter-Blossom is dealt damage, put a +1/+1 counter on it. (It must s
 • Target creature gets +2/+2 until end of turn and must be blocked this turn if able.</text>
     </card>
     <card>
-      <name>Wildest Dreams</name>
-      <set rarity="rare" uuid="1533">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>XXG</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Return X target cards from your graveyard to your hand. Exile Wildest Dreams.</text>
-    </card>
-    <card>
       <name>Thyrsine Hunter</name>
-      <set rarity="uncommon" uuid="1534">PTN</set>
+      <set rarity="uncommon" uuid="1508">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -22683,7 +22306,7 @@ When Thyrsine Hunter enters, if you control a Sanctuary or there is a Sanctuary 
     </card>
     <card>
       <name>Tireless Recruiter</name>
-      <set rarity="uncommon" uuid="1535">PTN</set>
+      <set rarity="uncommon" uuid="1509">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -22697,7 +22320,7 @@ When Thyrsine Hunter enters, if you control a Sanctuary or there is a Sanctuary 
     </card>
     <card>
       <name>Unceasing Initiation</name>
-      <set rarity="common" uuid="1536">PTN</set>
+      <set rarity="common" uuid="1510">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -22710,7 +22333,7 @@ When Thyrsine Hunter enters, if you control a Sanctuary or there is a Sanctuary 
     </card>
     <card>
       <name>Way to the Wood</name>
-      <set rarity="common" uuid="1537">PTN</set>
+      <set rarity="common" uuid="1511">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -22724,38 +22347,8 @@ When Thyrsine Hunter enters, if you control a Sanctuary or there is a Sanctuary 
 {2}, Sacrifice Way to the Wood: You gain 3 life. Scry 2.</text>
     </card>
     <card>
-      <name>Wolf-Splinter</name>
-      <set rarity="common" uuid="1538">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Wolf Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Wolf-Splinter enters, create a 2/2 green Wolf creature token.
-Whenever Wolf-Splinter attacks, target attacking creature you control gains trample until end of turn.</text>
-    </card>
-    <card>
-      <name>Wood&apos;s Devourer</name>
-      <set rarity="common">PTN</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>4GG</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Wolf Demon Horror </type>
-        <maintype>Creature</maintype>
-        <pt>6/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-Whenever Wood’s Devourer attacks, if you own a boon, put a +1/+1 counter on Wood’s Devourer.</text>
-    </card>
-    <card>
       <name>Yew Colossus</name>
-      <set rarity="uncommon" uuid="1540">PTN</set>
+      <set rarity="uncommon" uuid="1512">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>6G</manacost>
@@ -22770,7 +22363,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
     </card>
     <card>
       <name>Territorial Yew-Maw</name>
-      <set rarity="rare" uuid="1541">PTN</set>
+      <set rarity="rare" uuid="1513">PTN</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -22785,7 +22378,7 @@ Whenever Territorial Yew-Maw is dealt damage during your turn, destroy up to one
     </card>
     <card>
       <name>Study the Histories</name>
-      <set rarity="uncommon" uuid="1542">PTN</set>
+      <set rarity="uncommon" uuid="1514">PTN</set>
       <prop>
         <colors>UG</colors>
         <manacost>GU</manacost>
@@ -22827,7 +22420,7 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
     </card>
     <card>
       <name>Breaching Vespera</name>
-      <set rarity="mythic" uuid="1545">PTN</set>
+      <set rarity="mythic" uuid="1517">PTN</set>
       <prop>
         <colors>UB</colors>
         <manacost>3UB</manacost>
@@ -22840,7 +22433,7 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
     </card>
     <card>
       <name>Carapace Shell-Burster</name>
-      <set rarity="uncommon" uuid="1546">PTN</set>
+      <set rarity="uncommon" uuid="1518">PTN</set>
       <prop>
         <colors>BG</colors>
         <manacost>2BG</manacost>
@@ -22854,23 +22447,8 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
 Carapace Shell-Burster enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard from anywhere this turn.</text>
     </card>
     <card>
-      <name>Drowning Cyprian</name>
-      <set rarity="uncommon" uuid="1547">PTN</set>
-      <prop>
-        <colors>BR</colors>
-        <manacost>2BR</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Vampire Rogue </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>This spell costs {2} less to cast if an opponent lost life this turn.
-Menace, haste</text>
-    </card>
-    <card>
       <name>Horomachist Ending</name>
-      <set rarity="uncommon" uuid="1548">PTN</set>
+      <set rarity="uncommon" uuid="1519">PTN</set>
       <prop>
         <colors>WB</colors>
         <manacost>1WB</manacost>
@@ -22882,24 +22460,8 @@ Menace, haste</text>
       <text>Destroy target enchantment or creature. If you control an Angel or God, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
-      <name>Isidra, Foreign Goddess</name>
-      <set rarity="mythic" uuid="1549">PTN</set>
-      <prop>
-        <colors>UB</colors>
-        <manacost>3UB</manacost>
-        <cmc>5</cmc>
-        <type>Legendary Planeswalker - Isidra </type>
-        <maintype>Planeswalker</maintype>
-      <loyalty>4</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>[+1]: Target opponent discards a card. You may draw a card unless target opponent pays 2.
-[-3]: Look at the top five cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield.
-[-8]: You get an emblem with “Opponents can’t draw cards”.</text>
-    </card>
-    <card>
       <name>Lorescale Coatl</name>
-      <set rarity="uncommon" uuid="1550">PTN</set>
+      <set rarity="uncommon" uuid="1520">PTN</set>
       <prop>
         <colors>UG</colors>
         <manacost>1GU</manacost>
@@ -22913,7 +22475,7 @@ Menace, haste</text>
     </card>
     <card>
       <name>Malleary Phantasm</name>
-      <set rarity="uncommon" uuid="1551">PTN</set>
+      <set rarity="uncommon" uuid="1521">PTN</set>
       <prop>
         <colors>WR</colors>
         <manacost>RW</manacost>
@@ -22927,7 +22489,7 @@ Menace, haste</text>
     </card>
     <card>
       <name>Percussigant</name>
-      <set rarity="uncommon" uuid="1552">PTN</set>
+      <set rarity="uncommon" uuid="1522">PTN</set>
       <prop>
         <colors>WG</colors>
         <manacost>1GW</manacost>
@@ -22942,7 +22504,7 @@ Activated abilities of Sanctuaries you control cost {1} less to activate.</text>
     </card>
     <card>
       <name>Places of Peace</name>
-      <set rarity="uncommon" uuid="1553">PTN</set>
+      <set rarity="uncommon" uuid="1523">PTN</set>
       <prop>
         <colors>WG</colors>
         <manacost>GW</manacost>
@@ -22956,7 +22518,7 @@ Whenever a Sanctuary card is put into your graveyard from the battlefield, you g
     </card>
     <card>
       <name>Roost Augur</name>
-      <set rarity="uncommon" uuid="1554">PTN</set>
+      <set rarity="uncommon" uuid="1524">PTN</set>
       <prop>
         <colors>WU</colors>
         <manacost>WU</manacost>
@@ -22970,24 +22532,8 @@ Whenever a Sanctuary card is put into your graveyard from the battlefield, you g
 Whenever Roost Augur attacks, you may exile a card from your hand face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
-      <name>Sister of Venoms</name>
-      <set rarity="uncommon" uuid="1555">PTN</set>
-      <prop>
-        <colors>UR</colors>
-        <manacost>UR</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Shaman Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever Sister of Venoms becomes blocked, choose one —
-• Tap target creature blocking Sister of Venoms, put a stun counter on it.
-• Other creatures you control get +1/+1 until end of turn.</text>
-    </card>
-    <card>
       <name>Vengeful Restorer</name>
-      <set rarity="uncommon" uuid="1556">PTN</set>
+      <set rarity="uncommon" uuid="1525">PTN</set>
       <prop>
         <colors>WB</colors>
         <manacost>1WB</manacost>
@@ -23002,7 +22548,7 @@ Each other Angel you control gets +1/+1 and has ward {1}.</text>
     </card>
     <card>
       <name>Wound the World</name>
-      <set rarity="uncommon" uuid="1557">PTN</set>
+      <set rarity="uncommon" uuid="1526">PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -23015,7 +22561,7 @@ Each other Angel you control gets +1/+1 and has ward {1}.</text>
     </card>
     <card>
       <name>Covert Cloak</name>
-      <set rarity="common" uuid="1558">PTN</set>
+      <set rarity="common" uuid="1527">PTN</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
@@ -23030,7 +22576,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Field of Ruin</name>
-      <set rarity="uncommon" uuid="1559">PTN</set>
+      <set rarity="uncommon" uuid="1528">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -23044,7 +22590,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Sanctuary of Mysteries</name>
-      <set rarity="uncommon" uuid="1560">PTN</set>
+      <set rarity="uncommon" uuid="1529">PTN</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -23058,7 +22604,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Carapace Ancestor</name>
-      <set rarity="uncommon" uuid="1561">PTN</set>
+      <set rarity="uncommon" uuid="1530">PTN</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -23069,21 +22615,6 @@ Equip {2}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Carapace Ancestor or another Insect you control dies, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
-    </card>
-    <card>
-      <name>Tenacious Illuminator</name>
-      <set rarity="uncommon" uuid="1562">PTN</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Angel Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-Whenever Tenacious Illuminator or another Angel you control dies, each opponent loses 1 life and you gain 1 life. Then surveil 1.</text>
     </card>
     <card>
       <name>Musician&apos;s Remnant</name>
@@ -23100,6 +22631,480 @@ Whenever Tenacious Illuminator or another Angel you control dies, each opponent 
       <text>Haste
 Musician’s Remnant can’t block.
 {G}, Shuffle Musician’s Remnant from your graveyard into your library: Create a token that’s a copy of Musician’s Remnant. Activate only if you’ve drawn three or more cards this turn.</text>
+    </card>
+    <card>
+      <name>Ambitions of Ascension</name>
+      <set rarity="rare" uuid="1532">PTN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+II — Search for library for a God card with mana value greater than the greatest mana value among Gods you control.
+III — Choose a card in your hand or graveyard. Reveal it. Up to one target God gains the revealed card’s abilities. (This effect lasts indefinitely)</text>
+    </card>
+    <card>
+      <name>Glassgarden Watcheye</name>
+      <set rarity="rare" uuid="1533">PTN</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gods and other Clerics you control get +1/+0 and have vigilance.
+Whenever Glassgarden Watcheye attacks, induct twice. Tokens created this way are tapped and attacking. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+    </card>
+    <card>
+      <name>Expose Mortality</name>
+      <set rarity="uncommon" uuid="1534">PTN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature loses all abilities and becomes a Cleric with base power and toughness 0/1. You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+    </card>
+    <card>
+      <name>Legacy of the Wheel</name>
+      <set rarity="rare" uuid="1535">PTN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Enchantment - God </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Legacy of the Wheel enters, if it was cast, exile all the cards in your hand face down, then draw that many cards plus one.
+Discard X cards, Sacrifice Legacy of the Wheel: You may play up to X cards exiled by Legacy of the Wheel this turn.</text>
+    </card>
+    <card>
+      <name>Ophidian Soul</name>
+      <set rarity="rare" uuid="1536">PTN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Snake Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Ophidian Soul enters, target permanent gains Ophidian Soul abilities until end of turn.
+Whenever Ophidian Soul deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Prison of Glass</name>
+      <set rarity="common" uuid="1537">PTN</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature is a blue Reflection, gets -4/-0, loses all abilities, and can’t be sacrificed.</text>
+    </card>
+    <card>
+      <name>Tenacious Illuminator</name>
+      <set rarity="uncommon" uuid="1538">PTN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more other Angels you control die, each opponent loses 2 life and you gain 2 life, surveil 2. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>The Crowned Growth</name>
+      <set rarity="mythic" uuid="1539">PTN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Fungus God </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever The Crowned Growth or a creature dealt damage by it this turn leaves the battlefield, up to one target creature becomes a copy of The Crowned Growth except it isn’t legendary and each opponent gets 2 poison counters. (This effect lasts indefinitely.)</text>
+    </card>
+    <card>
+      <name>The Museum of Worms</name>
+      <set rarity="rare" uuid="1540">PTN</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dies, put an omen counter on The Museum of Worms.
+Remove twice X omen counters from The Museum of Worms and sacrifice it: Create X 1/1 black Worm creature tokens with deathtouch and toxic 1. Activate only as a sorcery. (Players dealt combat damage by this creature also get a poison counter.)</text>
+    </card>
+    <card>
+      <name>Legacy of Flint</name>
+      <set rarity="rare" uuid="1541">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Enchantment - God </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you finish exiling one or more cards, Legacy of Flint deals damage to target player equal to the number of spells you’ve cast from exile this turn.</text>
+    </card>
+    <card>
+      <name>Malleary Augmenter</name>
+      <set rarity="rare" uuid="1542">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Malleary Augmenter or another Cleric you control enters, you may pay {R}. If you do, Cleric creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Malleary Seer</name>
+      <set rarity="common" uuid="1543">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you exile one or more cards, Malleary Seer gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Malleary Smelter</name>
+      <set rarity="uncommon" uuid="1544">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter Cleric Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you exiled a card this turn, Malleary Smelter is a Phoenix with flying and haste.
+Foretell 1R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+    </card>
+    <card>
+      <name>Opener of Glass</name>
+      <set rarity="uncommon" uuid="1545">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Opener of Glass is dealt damage, it deals that much damage to any target.</text>
+    </card>
+    <card>
+      <name>Tattered Cyprian</name>
+      <set rarity="common" uuid="1546">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+    </card>
+    <card>
+      <name>Wandering Unmaker</name>
+      <set rarity="common" uuid="1547">PTN</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Wandering Unmaker is dealt damage, if you control a Sanctuary or God, Wandering Unmaker deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Drowning Cyprian</name>
+      <set rarity="uncommon" uuid="1548">PTN</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, haste
+When Drowning Cyprian enters, if an opponent lose life this turn, put two +1/+1 counters on Drowning Cyprian.</text>
+    </card>
+    <card>
+      <name>Isidra, Foreign Goddess</name>
+      <set rarity="mythic" uuid="1549">PTN</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>3UB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Isidra </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Target opponent discards a card. You may draw a card unless target opponent pays 2.
+[-3]: Look at the top three cards of your library. You may put a permanent card with mana value 5 or less from among them onto the battlefield. Put the rest into your graveyard.
+[-8]: You get an emblem with “Opponents can’t draw cards”.</text>
+    </card>
+    <card>
+      <name>Sister of Venoms</name>
+      <set rarity="uncommon" uuid="1550">PTN</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Sister of Venoms becomes blocked, choose one —
+• Tap target creature and put a stun counter on it.
+• Other creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>The Chiliarch</name>
+      <set rarity="mythic" uuid="1551">PTN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human God </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Chiliarch can’t be the target of Instant spells.
+If damage would be dealt to The Chiliarch while it isn’t blocking, prevent that damage and put that many +1/+1 counters on The Chiliarch.</text>
+    </card>
+    <card>
+      <name>The Forge of Days</name>
+      <set rarity="mythic" uuid="1552">PTN</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RRW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elemental God </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever The Forge of Days attacks, you may put a creature card you own in exile onto the battlefield tapped and attacking. Its owner puts it on the bottom of their library at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>The Thunderskin</name>
+      <set rarity="mythic" uuid="1553">PTN</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human God </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever #The Thunderskin attacks, create an enchantment token named Heartbeat with “GW, Sacrifice this permanent: Return target card named #The Thunderskin from your graveyard to the battlefield tapped.”</text>
+    </card>
+    <card>
+      <name>The Vagabond</name>
+      <set rarity="rare" uuid="1554">PTN</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Vagabond </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw a card put a loyalty counter on The Vagabond.
+[0]: Draw a card.
+[-3]: Return target permanent to its owner’s hand.
+[-X]: Create a token that’s a copy of target land except its an X/X blue Merfolk creature with hexproof in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Ascent from Snakes</name>
+      <set rarity="uncommon" uuid="1555">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Distribute X +1/+1 counters among creatures you control, where X is one plus the number of cards you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>Buzzings in the World</name>
+      <set rarity="rare" uuid="1556">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put up to up to X land cards in your graveyard onto the battlefield tapped. You gain X life.</text>
+    </card>
+    <card>
+      <name>Dappled Wing-Clippers</name>
+      <set rarity="common" uuid="1557">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dappled Wing-Clippers enters, mill three cards.
+{1}, Sacrifice Dappled Wing-Clippers: Choose one—
+• Destroy target artifact or enchantment.
+• Return target land card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Dyad&apos;s Dance</name>
+      <set rarity="rare">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature then look at the top five cards of your library. You may cast a creature card from among them. Put the rest on the bottom of your library in a random order. When a creature cast this way enters, it fights that creature.</text>
+    </card>
+    <card>
+      <name>Ravenous Unmaker</name>
+      <set rarity="uncommon" uuid="1559">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Wolf Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever Ravenous Unmaker is dealt damage you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+Whenever a boon you own triggers, create a 2/2 green Wolf creature token.</text>
+    </card>
+    <card>
+      <name>Seven-Coil Ambusher</name>
+      <set rarity="common" uuid="1560">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Serpent Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, deathtouch
+Seven-Coil Ambusher can’t be blocked by tokens.</text>
+    </card>
+    <card>
+      <name>Splinter-Blossom</name>
+      <set rarity="uncommon" uuid="1561">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures with power less than Splinter-Blossom’s power can’t block it.
+Whenever Splinter-Blossom is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counters.)</text>
+    </card>
+    <card>
+      <name>Wolf-Splinter</name>
+      <set rarity="uncommon" uuid="1562">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Wolf-Splinter is dealt damage, create a 2/2 green Wolf creature token.</text>
+    </card>
+    <card>
+      <name>Wood&apos;s Devourer</name>
+      <set rarity="common">PTN</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wolf Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Wood’s Devourer enters, you may have it deal 1 damage to target creature you control. If you do, that creature gains trample until end of turn.</text>
     </card>
 
     <card>
@@ -33862,7 +33867,7 @@ Counter target spell with a creature type.</text>
       <set rarity="uncommon" uuid="2291">WAW</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
+        <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Creature - Elf Rogue </type>
         <maintype>Creature</maintype>
