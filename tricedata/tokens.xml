@@ -5,6 +5,30 @@
 
     <card>
       <name>Liberated Dragon AKT</name>
+      <reverse-related>Sealed Deepborn</reverse-related>
+      <reverse-related>Pillar of Worldbalance</reverse-related>
+      <reverse-related>King Platinum Sarajii</reverse-related>
+      <reverse-related>Besotted Courtier</reverse-related>
+      <reverse-related>Sapience Spreading</reverse-related>
+      <reverse-related>Abiogenesis</reverse-related>
+      <reverse-related>Erys' Worldview</reverse-related>
+      <reverse-related>Erys' Salvation</reverse-related>
+      <reverse-related>Split Ego</reverse-related>
+      <reverse-related>Triaja, Astral Apostate</reverse-related>
+      <reverse-related>Urdonic Attendant</reverse-related>
+      <reverse-related>Injector Evangelist</reverse-related>
+      <reverse-related>Essence Surgeon</reverse-related>
+      <reverse-related>Pass Regulation</reverse-related>
+      <reverse-related>Twinbirth</reverse-related>
+      <reverse-related>Vial of Erysium</reverse-related>
+      <reverse-related>Gift of Erysium</reverse-related>
+      <reverse-related>Drink Heresy</reverse-related>
+      <reverse-related>Bleak Philosophy</reverse-related>
+      <reverse-related>Erysium Injection</reverse-related>
+      <reverse-related>Injector Evangel</reverse-related>
+      <reverse-related>Sapient Stoneworks</reverse-related>
+      <reverse-related>Curious Qualiaform</reverse-related>
+      <reverse-related>Indoctrinate</reverse-related>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -18,6 +42,7 @@
     </card>
     <card>
       <name>Insect Advisor AKT</name>
+      <reverse-related >Spokesman of the Mothweft</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>W</colors>
@@ -106,6 +131,9 @@
     </card>
     <card>
       <name>Treasure AKT</name>
+      <reverse-related >Thoughtglass Shaper</reverse-related>
+      <reverse-related >Hazenwyld Beastmaster</reverse-related>
+      <reverse-related >Hazard Technician</reverse-related>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -131,6 +159,9 @@
     </card>
     <card>
       <name>Incarnation AKT</name>
+      <reverse-related >Atraja the Mutable</reverse-related>
+      <reverse-related >Ineffable Spawning</reverse-related>
+      <reverse-related >Zeitgeist's Judgment</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>R</colors>
@@ -144,6 +175,11 @@
     </card>
     <card>
       <name>Hex Citizen AKT</name>
+      <reverse-related >Homestead of the Meek</reverse-related>
+      <reverse-related count="2">Infested Fortress</reverse-related>
+      <reverse-related >Host Farm Babysitter</reverse-related>
+      <reverse-related >Orthodox Scholar</reverse-related>
+      <reverse-related >Heart of Prithite</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>G</colors>
@@ -157,6 +193,8 @@
     </card>
     <card>
       <name>Werewolf Citizen AKT</name>
+      <reverse-related >Disaster Responder</reverse-related>
+      <reverse-related >Sapient Stoneworks</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>G</colors>
@@ -170,6 +208,7 @@
     </card>
     <card>
       <name>Incarnation Soldier AKT</name>
+      <reverse-related >Lethal Force</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>R</colors>
@@ -183,6 +222,11 @@
     </card>
     <card>
       <name>Soldier AKT</name>
+      <reverse-related count="2">Lunette, Imperial Strategist</reverse-related>
+      <reverse-related >Lightning's Protection</reverse-related>
+      <reverse-related count="2">God-Worm Bulwark</reverse-related>
+      <reverse-related >Sarajex Rescuer</reverse-related>
+      <reverse-related count="2">Rapid Response</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>W</colors>
@@ -225,6 +269,7 @@ Equip creature of the chosen type {1}</text>
 
     <card>
       <name>Icon Token EXPT</name>
+      <reverse-related >Soul Splintering</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>WI</colors>
@@ -239,6 +284,8 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Horror EXPT</name>
+      <reverse-related count="2">Shell's Scraping</reverse-related>
+      <reverse-related >The Depths Talk Loudly</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>I</colors>
@@ -267,6 +314,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Insect Plant Token EXPT</name>
+      <reverse-related count="2">Scholigaunt</reverse-related>
+      <reverse-related >Xylem Attendant</reverse-related>
+      <reverse-related >Algael-leael</reverse-related>
+      <reverse-related >Sryyn Spawner</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>I</colors>
@@ -280,6 +331,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Wall Token EXPT</name>
+      <reverse-related >Hopeless Summit</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -293,6 +345,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Shapeshifter Token EXPT</name>
+      <reverse-related >Lost Cause</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -399,6 +452,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Demon EXPT</name>
+      <reverse-related >The Demon Within</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>B</colors>
@@ -413,6 +467,13 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Drake Token EXPT</name>
+      <reverse-related >Dessigry</reverse-related>
+      <reverse-related >Tepid Tamer</reverse-related>
+      <reverse-related >Kindred Spirits</reverse-related>
+      <reverse-related >Cerise Auger of Flow</reverse-related>
+      <reverse-related >Ignelscor Witch</reverse-related>
+      <reverse-related >Adventurous Pair</reverse-related>
+      <reverse-related count="2">Calign</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>I</colors>
@@ -515,6 +576,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
+      <reverse-related >Wandering Travellers</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -544,6 +606,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Fish Token EXPT</name>
+      <reverse-related >Kaiju Sighting</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -562,6 +625,16 @@ Distant Vulture has lifelink as long as it’s a token.</text>
 
     <card>
       <name>Zombie HEL</name>
+      <reverse-related >Sweltering Shoals</reverse-related>
+      <reverse-related >Foreboding Milestone</reverse-related>
+      <reverse-related >Rotten Insight</reverse-related>
+      <reverse-related >Castle Salus's Catacombs</reverse-related>
+      <reverse-related count="2">Saintly Remains</reverse-related>
+      <reverse-related >Shamble En Masse</reverse-related>
+      <reverse-related >Fides, Bloodied Confidant</reverse-related>
+      <reverse-related >Phylactery Crafter</reverse-related>
+      <reverse-related >Return for Duty</reverse-related>
+      <reverse-related >Crypt Defenders</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>W</colors>
@@ -576,6 +649,10 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Merfolk Horror HEL</name>
+      <reverse-related count="2">Unidentifiable Mass</reverse-related>
+      <reverse-related count="2">Ghastly Tide</reverse-related>
+      <reverse-related >Faber's Hatching</reverse-related>
+      <reverse-related count="2">Gigas Screamer</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>U</colors>
@@ -589,6 +666,18 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton HEL</name>
+      <reverse-related >Servant of Laceration</reverse-related>
+      <reverse-related count="3">Remains of Despair</reverse-related>
+      <reverse-related count="3">Ransack the Tombs</reverse-related>
+      <reverse-related >Blazing Raid</reverse-related>
+      <reverse-related >Bemused Gorger</reverse-related>
+      <reverse-related >Processing Revenant</reverse-related>
+      <reverse-related count="2">Hellemental</reverse-related>
+      <reverse-related count="2">Crumbling Monstrosity</reverse-related>
+      <reverse-related >Rambunctious Bonewalkers</reverse-related>
+      <reverse-related >Aged Warmage</reverse-related>
+      <reverse-related >Salvaged Legionnaire</reverse-related>
+      <reverse-related >Skeletonfy</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>B</colors>
@@ -602,6 +691,12 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Spider HEL</name>
+      <reverse-related count="3">Thread the Undergrowth</reverse-related>
+      <reverse-related >Sparse Weblands</reverse-related>
+      <reverse-related >Skittering Host</reverse-related>
+      <reverse-related >Eafem, Lethal Arachne</reverse-related>
+      <reverse-related >Skittering Skullsifter</reverse-related>
+      <reverse-related >Nightmare Webbing</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -615,6 +710,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton Hydra HEL</name>
+      <reverse-related >Bonemarrow Hydra</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -628,6 +724,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Skeleton Horse HEL</name>
+      <reverse-related >Undue, Death Devourer</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -641,6 +738,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Vampire Soldier HEL</name>
+      <reverse-related >Sorin, Vengeful Sangrablade</reverse-related>
       <set>HEL</set>
       <prop>
         <colors>W</colors>
@@ -701,6 +799,30 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Scout HOD</name>
+      <reverse-related >Gaze Upon Greatness</reverse-related>
+      <reverse-related >Read the Wingbeats</reverse-related>
+      <reverse-related >Approach of the Newly Crowned</reverse-related>
+      <reverse-related >Brotherly Comradery</reverse-related>
+      <reverse-related >Expendable Army</reverse-related>
+      <reverse-related >King's Rock Warden</reverse-related>
+      <reverse-related count="2">Thugs at the Shrouded Coast</reverse-related>
+      <reverse-related >Honored Eagle</reverse-related>
+      <reverse-related count="2">Naval Diplomacy</reverse-related>
+      <reverse-related count="2">Hulking Vessel</reverse-related>
+      <reverse-related count="3">Sacred Avenger</reverse-related>
+      <reverse-related >Explore the Great Unknown</reverse-related>
+      <reverse-related >Glory on Bloodied Wings</reverse-related>
+      <reverse-related count="2">Respected Captain</reverse-related>
+      <reverse-related count="2">Standing Army</reverse-related>
+      <reverse-related >Reaper of Graven Laughs</reverse-related>
+      <reverse-related >Attwater Drakerider</reverse-related>
+      <reverse-related >Lost at Sea</reverse-related>
+      <reverse-related >Heart of Banefort</reverse-related>
+      <reverse-related count="2">Wystan Terrel, the Occultist</reverse-related>
+      <reverse-related count="x">Noble Griffin</reverse-related>
+      <reverse-related >Imani Whitaker</reverse-related>
+      <reverse-related count="x">King's Rock Castle</reverse-related>
+      <reverse-related >Choice of Salvations</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>U</colors>
@@ -785,6 +907,9 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Horror HOD</name>
+      <reverse-related >Gosfridus Turnberry</reverse-related>
+      <reverse-related >One with the Geistwald</reverse-related>
+      <reverse-related >Mirrorkin's Bargain</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>B</colors>
@@ -929,6 +1054,14 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Soldier HOD</name>
+      <reverse-related >Hopeful Spouse</reverse-related>
+      <reverse-related >Instill with Integrity</reverse-related>
+      <reverse-related >Paragon of Stories</reverse-related>
+      <reverse-related >Travelcart's Care</reverse-related>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+      <reverse-related count="x">House Negotiations</reverse-related>
+      <reverse-related >Royal Seeker</reverse-related>
+      <reverse-related >Leon's Claim</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -942,6 +1075,40 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Knight HOD</name>
+      <reverse-related >Banefort Sigil</reverse-related>
+      <reverse-related >Hook Sigil</reverse-related>
+      <reverse-related >Nye Sigil</reverse-related>
+      <reverse-related >Perle House Sigil</reverse-related>
+      <reverse-related >Attwater Sigil</reverse-related>
+      <reverse-related >Phyre Sigil</reverse-related>
+      <reverse-related >Plaskett Sigil</reverse-related>
+      <reverse-related >Radcliff Sigil</reverse-related>
+      <reverse-related >Rey Sigil</reverse-related>
+      <reverse-related >Rivers Sigil</reverse-related>
+      <reverse-related >Sapner Sigil</reverse-related>
+      <reverse-related >Terrel Sigil</reverse-related>
+      <reverse-related >Turnberry Sigil</reverse-related>
+      <reverse-related >Vance Sigil</reverse-related>
+      <reverse-related >Fleshborne Horror</reverse-related>
+      <reverse-related >Replenishing Camp</reverse-related>
+      <reverse-related >Gleaming Courage</reverse-related>
+      <reverse-related >Knight of Skyspire</reverse-related>
+      <reverse-related >Sandrock Infantry</reverse-related>
+      <reverse-related >Call of the King</reverse-related>
+      <reverse-related >Lucky Break</reverse-related>
+      <reverse-related >Resolute Elk</reverse-related>
+      <reverse-related >Whitaker Sigil</reverse-related>
+      <reverse-related >Meeting of Powers</reverse-related>
+      <reverse-related >Glory on Bloodied Wings</reverse-related>
+      <reverse-related >Dirt to Flesh</reverse-related>
+      <reverse-related >Standing Army</reverse-related>
+      <reverse-related >Turnberry Overseer</reverse-related>
+      <reverse-related >Grasp of the Mirrorkin</reverse-related>
+      <reverse-related >Terrel Battlemage</reverse-related>
+      <reverse-related >Roul Banefort, the Stern</reverse-related>
+      <reverse-related >Geistwald Abomination</reverse-related>
+      <reverse-related >Leon's Claim</reverse-related>
+      <reverse-related >Call to War</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>G</colors>
@@ -968,6 +1135,15 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Treasure HOD</name>
+      <reverse-related >Vance Recruit</reverse-related>
+      <reverse-related >Bounty Setter</reverse-related>
+      <reverse-related >Wealthy Slabman</reverse-related>
+      <reverse-related >Explore the Great Unknown</reverse-related>
+      <reverse-related >Restorative Hexer</reverse-related>
+      <reverse-related >Vance Battlemage</reverse-related>
+      <reverse-related >Pilferer of Shrouded Coasts</reverse-related>
+      <reverse-related >Hall of Graven Laughs</reverse-related>
+      <reverse-related >Delora Vance, Lord of Laughs</reverse-related>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -984,6 +1160,9 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
     </card>
     <card>
       <name>Weapon HOD</name>
+      <reverse-related >Explore the Great Unknown</reverse-related>
+      <reverse-related >Kirsa, the Sword of Perle</reverse-related>
+      <reverse-related >Sandrock Blacksmith</reverse-related>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -1002,6 +1181,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Food HOD</name>
+      <reverse-related >Hexer's Cave</reverse-related>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -1016,6 +1196,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Clue HOD</name>
+      <reverse-related >Writ of Supplies</reverse-related>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -1030,6 +1211,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Spirit HOD</name>
+      <reverse-related count="4">Gathering of Lost Souls</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>R</colors>
@@ -1046,6 +1228,7 @@ Equip {2}</text>
 
     <card>
       <name>Faerie Horror ITD</name>
+      <reverse-related >Goddess of Puppet Strings</reverse-related>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1073,6 +1256,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Ringing Noise ITD</name>
+      <reverse-related >The Ephemeral Piper</reverse-related>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1098,6 +1282,17 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Nightmare ITD</name>
+      <reverse-related >Grasping Eternity</reverse-related>
+      <reverse-related >Illuminant Master</reverse-related>
+      <reverse-related >Ghostspitter</reverse-related>
+      <reverse-related >Desolate Meeting</reverse-related>
+      <reverse-related count="2">Antisun's Domain</reverse-related>
+      <reverse-related count="2">Avaz, Moontouched Prince</reverse-related>
+      <reverse-related >Angel of the Forest</reverse-related>
+      <reverse-related count="2">Feast of Butterflies</reverse-related>
+      <reverse-related >Secrets of Radiance</reverse-related>
+      <reverse-related count="3">Restlessness</reverse-related>
+      <reverse-related >Beacon Dreamer</reverse-related>
       <set>ITD</set>
       <prop>
         <colors>W</colors>
@@ -1112,6 +1307,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Everywhere ITD</name>
+      <reverse-related >Strange Wayfarer</reverse-related>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1283,6 +1479,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Insect ITD</name>
+      <reverse-related >Symbiotic Host</reverse-related>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1472,6 +1669,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>God Horror Token PTN</name>
+      <reverse-related >Monument of Rags</reverse-related>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -1490,6 +1688,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
 
     <card>
       <name>Bird PVR</name>
+      <reverse-related >Prefabrication</reverse-related>
       <set>PVR</set>
       <prop>
         <colors>U</colors>
@@ -1503,6 +1702,11 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Treasure PVR</name>
+      <reverse-related >Nurbs, the Wild King</reverse-related>
+      <reverse-related >Submerged Titangill</reverse-related>
+      <reverse-related >Burning Devastatasaur</reverse-related>
+      <reverse-related >Felygon Sentinel</reverse-related>
+      <reverse-related >Heirloom of the Obsolete</reverse-related>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -1515,6 +1719,9 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Dinosaur PVR</name>
+      <reverse-related count="x">Perpetual Cycle</reverse-related>
+      <reverse-related >Lévy Paths</reverse-related>
+      <reverse-related >Urwrapir Matriarch</reverse-related>
       <set>PVR</set>
       <prop>
         <colors>G</colors>
@@ -1528,6 +1735,8 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Fractal Horror PVR</name>
+      <reverse-related >Subsurface Spawning</reverse-related>
+      <reverse-related count="6">Epoch Ending</reverse-related>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -1541,6 +1750,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Fractal Reflection PVR</name>
+      <reverse-related count="2">Anivir, Forgotten Savior</reverse-related>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -1554,6 +1764,9 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Horror PVR</name>
+      <reverse-related >Conquex, Broken Mandate</reverse-related>
+      <reverse-related >Senescence Vessel</reverse-related>
+      <reverse-related >Prawth, Planar Decimator</reverse-related>
       <set>PVR</set>
       <prop>
         <colors>B</colors>
@@ -1567,6 +1780,15 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Human PVR</name>
+      <reverse-related >Fertile Progengon</reverse-related>
+      <reverse-related count="5">Urban Majesty</reverse-related>
+      <reverse-related count="x">Edravir's Lynchpin</reverse-related>
+      <reverse-related count="2">Cruelean, Ruler of None</reverse-related>
+      <reverse-related count="2">Tithing Protocol</reverse-related>
+      <reverse-related count="2">Consecrated Farmland</reverse-related>
+      <reverse-related >Asset Manager</reverse-related>
+      <reverse-related >Settle Inhospitable Lands</reverse-related>
+      <reverse-related >Stick Retriever</reverse-related>
       <set>PVR</set>
       <prop>
         <colors>W</colors>
@@ -1922,6 +2144,11 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Cat Token VNM</name>
+      <reverse-related >Avlod Bulwark</reverse-related>
+      <reverse-related >Outlands Riftbearer</reverse-related>
+      <reverse-related >Giants Blade</reverse-related>
+      <reverse-related >Rift Tender</reverse-related>
+      <reverse-related >Gateway Guardian</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>WB</colors>
@@ -2199,6 +2426,8 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Icon VNM</name>
+      <reverse-related >Splendid Genesis</reverse-related>
+      <reverse-related >Impunity of Souls</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -2380,6 +2609,8 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Icon Token VNM</name>
+      <reverse-related >Splendid Genesis</reverse-related>
+      <reverse-related >Impunity of Souls</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -2396,6 +2627,7 @@ Scry 1, then draw a card.</text>
 
     <card>
       <name>Dragon Token WAW</name>
+      <reverse-related >Starstruck Skitter</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>R</colors>
@@ -2410,6 +2642,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Memory of Home WAW</name>
+      <reverse-related >Norr, Ajha's Lieutenant</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -2423,6 +2656,9 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Spirit Token WAW</name>
+      <reverse-related >Excess of Potential</reverse-related>
+      <reverse-related >Remain Steady</reverse-related>
+      <reverse-related >Shapes in the Pools</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -2443,6 +2679,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Story of a Dead Plane WAW</name>
+      <reverse-related >Dhere, Preserver of Memories</reverse-related>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -2457,6 +2694,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Wonder Archon Token WAW</name>
+      <reverse-related >Cathexis, Soul Aspect</reverse-related>
+      <reverse-related >Memory Lane</reverse-related>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -2472,6 +2711,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>New Tensuo Luminary Token WAW</name>
+      <reverse-related>New Tensuo Luminary</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -2487,6 +2727,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Lakebed Wrudge Token WAW</name>
+      <reverse-related>Lakebed Wrudge</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>U</colors>
@@ -2503,6 +2744,14 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Beast Token WAW</name>
+      <reverse-related >Worldsoul Ambassador</reverse-related>
+      <reverse-related >New Tensuo Calmkeeper</reverse-related>
+      <reverse-related >Destructive Desire</reverse-related>
+      <reverse-related >Numberless Procession</reverse-related>
+      <reverse-related >Deepholt Encounter</reverse-related>
+      <reverse-related >Borderholt Herdcaller</reverse-related>
+      <reverse-related >Ilcan Entrancer</reverse-related>
+      <reverse-related >Anything and Everything</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
@@ -2544,6 +2793,7 @@ When this creature enters, draw a card.
     </card>
     <card>
       <name>Demon Token WAW</name>
+      <reverse-related >Tenuous Partners</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -2559,6 +2809,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Flowering Germinus Token WAW</name>
+      <reverse-related>Flowering Germinus</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>WG</colors>
@@ -2604,6 +2855,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Kindly Skywinder Token WAW</name>
+      <reverse-related>Kindly Skywinder</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -2634,6 +2886,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>New Tensuo Clergy Token WAW</name>
+      <reverse-related>New Tensuo Clergy</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -2664,6 +2917,22 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Wonder Token WAW</name>
+      <reverse-related count="2">Polymorphic Wispweaver</reverse-related>
+      <reverse-related >Starseeker Deva</reverse-related>
+      <reverse-related count="3">Starsea Slayer</reverse-related>
+      <reverse-related >Font of Boons</reverse-related>
+      <reverse-related count="2">Cathexis, Soul Aspect</reverse-related>
+      <reverse-related >New Tensuo Orator</reverse-related>
+      <reverse-related >Forgotten Worlds' Love</reverse-related>
+      <reverse-related count="3">Wave of Wisps</reverse-related>
+      <reverse-related >Citadel Repository</reverse-related>
+      <reverse-related >Blossoming Conscience</reverse-related>
+      <reverse-related count="2">Blinding Majesty</reverse-related>
+      <reverse-related >Antlerweaver</reverse-related>
+      <reverse-related >Blossoming Dissenter</reverse-related>
+      <reverse-related >Blossoming Comprehension</reverse-related>
+      <reverse-related count="2">Abrasive Trailblazer</reverse-related>
+      <reverse-related >Scrappy Wisp-Speaker</reverse-related>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -2736,6 +3005,7 @@ This creature gets +1/+0 for each other creature you control.
     </card>
     <card>
       <name>New Tensuo Physician Token WAW</name>
+      <reverse-related>New Tensuo Physician</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
