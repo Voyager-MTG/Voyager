@@ -303,7 +303,7 @@ Equip creature of the chosen type {1}</text>
 
     <card>
       <name>Icon EXPT</name>
-      <set num="11">EXPT</set>
+      <set num="13">EXPT</set>
       <prop>
         <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -319,17 +319,18 @@ Equip creature of the chosen type {1}</text>
     <card>
       <name>Horror EXPT</name>
 	  <reverse-related >The Depths Talk Loudly</reverse-related>
-      <set num="10">EXPT</set>
+      <set num="11">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>! !related The Depths Talk Loudly;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
+      <reverse-related>The Depths Talk Loudly</reverse-related>
     </card>
     <card>
       <name>Distant Vulture EXPT</name>
@@ -344,10 +345,72 @@ Distant Vulture Astral;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
-This creature has lifelink as long as it’s a token.</text>
+This creature has lifelink as long as it has power 2 or greater.</text>
       <token>1</token>
       <reverse-related>Distant Vulture</reverse-related>
       <reverse-related>Distant Vulture Astral</reverse-related>
+    </card>
+    <card>
+      <name>Insect Plant EXPT</name>
+	  <reverse-related >Algael-leael</reverse-related>
+	  <reverse-related >Sryyn Spawner</reverse-related>
+      <set num="12">EXPT</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wall EXPT</name>
+	  <reverse-related >Hopeless Summit</reverse-related>
+      <set num="17">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter EXPT</name>
+	  <reverse-related >Lost Cause</reverse-related>
+      <set num="2">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Robot EXPT</name>
+      <set num="15">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless
+!related Extant Surveyor;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Extant Surveyor</reverse-related>
     </card>
     <card>
       <name>Can Be Cast From Exile EXPT</name>
@@ -398,14 +461,7 @@ This creature has lifelink as long as it’s a token.</text>
 	  <reverse-related>Fervent Demagogue</reverse-related>
 	  <reverse-related>Plaskett Trickster</reverse-related>
 	  <reverse-related>Marilye, Heirloom Pilferer</reverse-related>
-	  <reverse-related>Spitting Hellfire</reverse-related>
-	  <reverse-related>Unhinged Giant</reverse-related>
-	  <reverse-related>Aggravator of Herds</reverse-related>
-	  <reverse-related>Rattler's Crusade</reverse-related>
-	  <reverse-related>Davriel's Dealbroker</reverse-related>
-	  <reverse-related>Overwhelming Consumption</reverse-related>
-	  <reverse-related>Mad Summoner</reverse-related>
-	  <reverse-related>Miori, Outlands Future</reverse-related>
+	  <reverse-related>Shalewing, Age of Dragons</reverse-related>
 	  <reverse-related>Mordel Charm</reverse-related>
 	  <reverse-related>Idol of Reconstruction</reverse-related>
 	  <reverse-related>Shrouded Pathcensor</reverse-related>
@@ -416,7 +472,6 @@ This creature has lifelink as long as it’s a token.</text>
 	  <reverse-related>Forbidding Spires</reverse-related>
 	  <reverse-related>Foreboding Falls</reverse-related>
 	  <reverse-related>Bygone Monoliths</reverse-related>
-	  <reverse-related>Warping Wolf</reverse-related>
 	  <reverse-related>Swiftpaw Striker</reverse-related>
 	  <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
 	  <reverse-related>Cunning Thoughtlich</reverse-related>
@@ -536,7 +591,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <set num="12">EXPT</set>
+      <set num="14">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -551,7 +606,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Treasure EXPT</name>
-      <set num="13">EXPT</set>
+      <set num="16">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Treasure </type>
@@ -569,9 +624,10 @@ Bastien Chapitaux</notes>
     </card>
     <card>
       <name>Fish EXPT</name>
-      <set num="2">EXPT</set>
+	  <reverse-related >Kaiju Sighting</reverse-related>
+      <set num="10">EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Fish </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
@@ -613,38 +669,40 @@ https://www.deviantart.com/mocaran/art/The-journey-and-the-big-fish-603435678</n
         <type>Token Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!related Lasting Discovery;Outlands Caretaker;Brightblossom Enclave;
+        <notes>!related Lasting Discovery;
 Beast-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Lasting Discovery</reverse-related>
-      <reverse-related>Outlands Caretaker</reverse-related>
-      <reverse-related>Brightblossom Enclave</reverse-related>
       <reverse-related>Beast-01</reverse-related>
     </card>
     <card>
-      <name>Black Bird FOE</name>
+      <name>Bird FOE</name>
+	  <reverse-related count="2">Fadove Charm</reverse-related>
 	  <reverse-related >A Flock is Born</reverse-related>
 	  <reverse-related count="3">A Flock is Born</reverse-related>
+	  <reverse-related count="2">Feather Piper</reverse-related>
       <set num="17">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related A Flock is Born&lt;3>;
-!exportname Black Bird</notes>
+        <notes>!related  A Flock is Born&lt;1>;A Flock is Born&lt;3>;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related count="1"> A Flock is Born</reverse-related>
       <reverse-related count="3">A Flock is Born</reverse-related>
     </card>
     <card>
-      <name>White Bird FOE</name>
+      <name>Bird FOE</name>
 	  <reverse-related count="2">Fadove Charm</reverse-related>
+	  <reverse-related >A Flock is Born</reverse-related>
+	  <reverse-related count="3">A Flock is Born</reverse-related>
 	  <reverse-related count="2">Feather Piper</reverse-related>
       <set num="2">FOE</set>
       <prop>
@@ -652,13 +710,11 @@ Beast-01</notes>
         <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Feather Piper&lt;2>;
-!exportname White Bird</notes>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
-      <reverse-related count="2">Feather Piper</reverse-related>
     </card>
     <card>
       <name>Insect FOE</name>
@@ -1030,7 +1086,7 @@ Mongoose-01</notes>
     <card>
       <name>Orb FOE</name>
 	  <reverse-related >Mirdrim Summit</reverse-related>
-      <set num="45">FOE</set>
+      <set num="46">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb </type>
@@ -1055,15 +1111,11 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <type>Token Enchantment Creature - Shark </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Pathward Riftcalling;Kaln-Ocean Seahorse;
-Shark-01</notes>
+        <notes>Shark-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
-      <reverse-related>Pathward Riftcalling</reverse-related>
-      <reverse-related>Kaln-Ocean Seahorse</reverse-related>
-      <reverse-related>Shark-01</reverse-related>
     </card>
     <card>
       <name>Whale FOE</name>
@@ -1085,6 +1137,7 @@ Whale-01</notes>
     </card>
     <card>
       <name>Red Wurm FOE</name>
+	  <reverse-related >Miori, Outlands Future</reverse-related>
 	  <reverse-related count="2">Encouraging Passage</reverse-related>
 	  <reverse-related >Bosket Peak</reverse-related>
 	  <reverse-related >Warforged Pair</reverse-related>
@@ -1490,7 +1543,7 @@ This is also a creature if you’ve illuminated silver.</text>
     </card>
     <card>
       <name>Orb Wizard FOE</name>
-      <set num="46">FOE</set>
+      <set num="47">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -1603,7 +1656,7 @@ This is also a creature if you’ve illuminated silver.</text>
     </card>
     <card>
       <name>Jura FOE</name>
-      <set num="47">FOE</set>
+      <set num="49">FOE</set>
       <prop>
         <colors></colors>
         <type>Legendary Land Token</type>
@@ -1615,141 +1668,34 @@ This is also a creature if you’ve illuminated silver.</text>
 {3}, {T}, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
       <token>1</token>
     </card>
-
-  
-
     <card>
-      <name>Zombie HEL</name>
-	  <reverse-related >Sweltering Shoals</reverse-related>
-	  <reverse-related >Foreboding Milestone</reverse-related>
-	  <reverse-related >Rotten Insight</reverse-related>
-	  <reverse-related >Castle Salus's Catacombs</reverse-related>
-	  <reverse-related count="2">Saintly Remains</reverse-related>
-	  <reverse-related >Shamble En Masse</reverse-related>
-	  <reverse-related >Fides, Bloodied Confidant</reverse-related>
-	  <reverse-related >Phylactery Crafter</reverse-related>
-	  <reverse-related >Return for Duty</reverse-related>
-	  <reverse-related >Crypt Defenders</reverse-related>
-      <set num="2">HEL</set>
+      <name>Law of Nature FOE</name>
+      <set num="45">FOE</set>
       <prop>
-        <colors>W</colors>
-        <type>Token Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>https://www.deviantart.com/markusvogt/art/Underworld-Rising-697237078</notes>
+        <colors></colors>
+        <type>Token Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!related Zoslera Exiled Visionary;
+https://www.artstation.com/artwork/YBvy6Y</notes>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <tablerow>1</tablerow>
+      <text>Ward {2}
+Creatures you control get +2/+2 and have haste, vigilance, and first strike.</text>
       <token>1</token>
+      <reverse-related>Zoslera Exiled Visionary</reverse-related>
+      <reverse-related>httpswwwartstationcomartworkYBvy6Y</reverse-related>
     </card>
     <card>
-      <name>Merfolk Horror HEL</name>
-	  <reverse-related count="2">Unidentifiable Mass</reverse-related>
-	  <reverse-related count="2">Ghastly Tide</reverse-related>
-	  <reverse-related >Faber's Hatching</reverse-related>
-	  <reverse-related count="2">Gigas Screamer</reverse-related>
-      <set num="3">HEL</set>
+      <name>Powerstone Shard FOE</name>
+      <set num="48">FOE</set>
       <prop>
-        <colors>U</colors>
-        <type>Token Creature - Merfolk Horror </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.deviantart.com/davesrightmind/art/Siren-Final-369903638</notes>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>https://www.artstation.com/artwork/98nZ0q</notes>
       </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton HEL</name>
-	  <reverse-related >Servant of Laceration</reverse-related>
-	  <reverse-related count="3">Remains of Despair</reverse-related>
-	  <reverse-related count="3">Ransack the Tombs</reverse-related>
-	  <reverse-related >Blazing Raid</reverse-related>
-	  <reverse-related >Bemused Gorger</reverse-related>
-	  <reverse-related >Processing Revenant</reverse-related>
-	  <reverse-related count="2">Hellemental</reverse-related>
-	  <reverse-related count="2">Crumbling Monstrosity</reverse-related>
-	  <reverse-related >Rambunctious Bonewalkers</reverse-related>
-	  <reverse-related >Aged Warmage</reverse-related>
-	  <reverse-related >Salvaged Legionnaire</reverse-related>
-	  <reverse-related >Skeletonfy</reverse-related>
-      <set num="4">HEL</set>
-      <prop>
-        <colors>B</colors>
-        <type>Token Creature - Skeleton </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.artstation.com/artwork/nQ2J0E</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Spider HEL</name>
-	  <reverse-related count="3">Thread the Undergrowth</reverse-related>
-	  <reverse-related >Sparse Weblands</reverse-related>
-	  <reverse-related >Skittering Host</reverse-related>
-	  <reverse-related >Eafem, Lethal Arachne</reverse-related>
-	  <reverse-related >Skittering Skullsifter</reverse-related>
-	  <reverse-related >Nightmare Webbing</reverse-related>
-      <set num="6">HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Spider </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>https://www.deviantart.com/highdarktemplar/art/Spider-of-Leng-820654490</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton Hydra HEL</name>
-	  <reverse-related >Bonemarrow Hydra</reverse-related>
-      <set num="5">HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Skeleton Hydra </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.deviantart.com/pininkela/art/The-Serpent-283704184</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Skeleton Horse HEL</name>
-	  <reverse-related >Undue, Death Devourer</reverse-related>
-      <set num="7">HEL</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Skeleton Horse </type>
-        <maintype>Creature</maintype>
-        <pt>X/X</pt>
-        <notes>https://www.deviantart.com/thedurrrrian/art/Fear-the-black-horse-of-famine-488974264</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Vampire Soldier HEL</name>
-	  <reverse-related >Sorin, Vengeful Sangrablade</reverse-related>
-      <set num="1">HEL</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Vampire Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-        <notes>https://www.deviantart.com/sinealas/art/The-Knight-600552138</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.</text>
       <token>1</token>
     </card>
 
@@ -2590,12 +2536,11 @@ This creature can’t block.</text>
         <type>Token Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Blinding Majesty&lt;2>;</notes>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
-      <reverse-related count="2">Blinding Majesty</reverse-related>
     </card>
 
   
@@ -2694,7 +2639,6 @@ God Horror Token
 	  <reverse-related >Ignite Fervor</reverse-related>
 	  <reverse-related >Burgeoning Risen</reverse-related>
 	  <reverse-related >Society Headquarters</reverse-related>
-	  <reverse-related >Woods' Procession</reverse-related>
 	  <reverse-related >Woods' Procession</reverse-related>
       <set num="1">PTN</set>
       <prop>
@@ -4206,7 +4150,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder  </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Scrappy Wisp-Speaker; Abrasive Trailblazer&lt;2>; Blossoming Comprehension; Blossoming Dissenter; Antlerweaver; Blinding Majesty&lt;2>; Blossoming Conscience; Citadel Repository; Cathexis, Soul Aspect; Starsea Slayer&lt;3>; Starseeker Deva; New Tensuo Calmkeeper; Polymorphic Wispweaver&lt;2>;</notes>
+        <notes>!related Scrappy Wisp-Speaker; Abrasive Trailblazer&lt;2>; Blossoming Comprehension; Blossoming Dissenter; Antlerweaver; Blossoming Conscience; Citadel Repository; Cathexis, Soul Aspect; Starsea Slayer&lt;3>; Starseeker Deva; New Tensuo Calmkeeper; Polymorphic Wispweaver&lt;2>;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature is all colors.</text>
@@ -4216,7 +4160,6 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related> Blossoming Comprehension</reverse-related>
       <reverse-related> Blossoming Dissenter</reverse-related>
       <reverse-related> Antlerweaver</reverse-related>
-      <reverse-related count="2"> Blinding Majesty</reverse-related>
       <reverse-related> Blossoming Conscience</reverse-related>
       <reverse-related> Citadel Repository</reverse-related>
       <reverse-related> Cathexis, Soul Aspect</reverse-related>
